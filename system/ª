@@ -1,0 +1,2108 @@
+.
+├── ./ª
+├── ./app
+│   ├── ./app/AdvanceReset
+│   │   └── ./app/AdvanceReset/AdvanceReset.apk
+│   ├── ./app/ANDTESTSUITESAT
+│   │   └── ./app/ANDTESTSUITESAT/ANDTESTSUITESAT.apk
+│   ├── ./app/ANDWIZARD
+│   │   └── ./app/ANDWIZARD/ANDWIZARD.apk
+│   ├── ./app/ApplicationsProvider
+│   │   └── ./app/ApplicationsProvider/ApplicationsProvider.apk
+│   ├── ./app/AtciService
+│   │   └── ./app/AtciService/AtciService.apk
+│   ├── ./app/AutoDialer
+│   │   └── ./app/AutoDialer/AutoDialer.apk
+│   ├── ./app/BasicDreams
+│   │   └── ./app/BasicDreams/BasicDreams.apk
+│   ├── ./app/BatteryWarning
+│   │   └── ./app/BatteryWarning/BatteryWarning.apk
+│   ├── ./app/Bluetooth
+│   │   ├── ./app/Bluetooth/Bluetooth.apk
+│   │   └── ./app/Bluetooth/lib
+│   │       └── ./app/Bluetooth/lib/arm
+│   │           └── ./app/Bluetooth/lib/arm/libbluetooth_jni.so
+│   ├── ./app/BrowserProviderProxy
+│   │   └── ./app/BrowserProviderProxy/BrowserProviderProxy.apk
+│   ├── ./app/BSPTelephonyDevTool
+│   │   └── ./app/BSPTelephonyDevTool/BSPTelephonyDevTool.apk
+│   ├── ./app/Calculator
+│   │   └── ./app/Calculator/Calculator.apk
+│   ├── ./app/CalendarGoogle
+│   │   └── ./app/CalendarGoogle/CalendarGoogle.apk
+│   ├── ./app/CalendarImporter
+│   │   └── ./app/CalendarImporter/CalendarImporter.apk
+│   ├── ./app/CaptivePortalLogin
+│   │   └── ./app/CaptivePortalLogin/CaptivePortalLogin.apk
+│   ├── ./app/CertInstaller
+│   │   └── ./app/CertInstaller/CertInstaller.apk
+│   ├── ./app/Chrome
+│   │   ├── ./app/Chrome/Chrome.apk
+│   │   └── ./app/Chrome/lib
+│   │       └── ./app/Chrome/lib/arm
+│   │           └── ./app/Chrome/lib/arm/libchromium_android_linker.so
+│   ├── ./app/ConfigUpdater
+│   │   └── ./app/ConfigUpdater/ConfigUpdater.apk
+│   ├── ./app/DeskClock
+│   │   └── ./app/DeskClock/DeskClock.apk
+│   ├── ./app/DocumentsUI
+│   │   └── ./app/DocumentsUI/DocumentsUI.apk
+│   ├── ./app/DownloadProviderUi
+│   │   └── ./app/DownloadProviderUi/DownloadProviderUi.apk
+│   ├── ./app/Drive
+│   │   ├── ./app/Drive/Drive.apk
+│   │   └── ./app/Drive/lib
+│   │       └── ./app/Drive/lib/arm
+│   │           ├── ./app/Drive/lib/arm/libbitmap_parcel.so
+│   │           ├── ./app/Drive/lib/arm/libdocscanner_image.so
+│   │           ├── ./app/Drive/lib/arm/libdocsimageutils.so
+│   │           ├── ./app/Drive/lib/arm/libfoxit.so
+│   │           ├── ./app/Drive/lib/arm/librawpixeldata_native.so
+│   │           ├── ./app/Drive/lib/arm/librectifier.so
+│   │           └── ./app/Drive/lib/arm/libwebp_android.so
+│   ├── ./app/DrmProvider
+│   │   └── ./app/DrmProvider/DrmProvider.apk
+│   ├── ./app/Email
+│   │   └── ./app/Email/Email.apk
+│   ├── ./app/EngineerMode
+│   │   └── ./app/EngineerMode/EngineerMode.apk
+│   ├── ./app/eSETerminal
+│   │   └── ./app/eSETerminal/eSETerminal.apk
+│   ├── ./app/ESFileExplorer
+│   │   └── ./app/ESFileExplorer/ESFileExplorer.apk
+│   ├── ./app/Exchange2
+│   │   └── ./app/Exchange2/Exchange2.apk
+│   ├── ./app/ExchangeServices
+│   │   └── ./app/ExchangeServices/ExchangeServices.apk
+│   ├── ./app/FaceLock
+│   │   ├── ./app/FaceLock/FaceLock.apk
+│   │   └── ./app/FaceLock/lib
+│   │       └── ./app/FaceLock/lib/arm
+│   │           └── ./app/FaceLock/lib/arm/libfacelock_jni.so
+│   ├── ./app/FWUpgrade
+│   │   └── ./app/FWUpgrade/FWUpgrade.apk
+│   ├── ./app/FWUpgradeProvider
+│   │   └── ./app/FWUpgradeProvider/FWUpgradeProvider.apk
+│   ├── ./app/Galaxy4
+│   │   └── ./app/Galaxy4/Galaxy4.apk
+│   ├── ./app/Gallery2
+│   │   ├── ./app/Gallery2/Gallery2.apk
+│   │   └── ./app/Gallery2/lib
+│   │       └── ./app/Gallery2/lib/arm
+│   │           ├── ./app/Gallery2/lib/arm/liba3m.so
+│   │           └── ./app/Gallery2/lib/arm/libja3m.so
+│   ├── ./app/Gmail2
+│   │   └── ./app/Gmail2/Gmail2.apk
+│   ├── ./app/GoogleContactsSyncAdapter
+│   │   └── ./app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
+│   ├── ./app/GoogleTTS
+│   │   ├── ./app/GoogleTTS/GoogleTTS.apk
+│   │   └── ./app/GoogleTTS/lib
+│   │       └── ./app/GoogleTTS/lib/arm
+│   │           ├── ./app/GoogleTTS/lib/arm/libpatts_engine_jni_api_neon_ub.210307121.so
+│   │           ├── ./app/GoogleTTS/lib/arm/libpatts_engine_jni_api_ub.210307121.so
+│   │           └── ./app/GoogleTTS/lib/arm/libspeexwrapper_ub.210307121.so
+│   ├── ./app/Hangouts
+│   │   ├── ./app/Hangouts/Hangouts.apk
+│   │   └── ./app/Hangouts/lib
+│   │       └── ./app/Hangouts/lib/arm
+│   │           ├── ./app/Hangouts/lib/arm/libcrashreporterer.so
+│   │           ├── ./app/Hangouts/lib/arm/libcronet.so
+│   │           ├── ./app/Hangouts/lib/arm/libframesequence.so
+│   │           └── ./app/Hangouts/lib/arm/libvideochat_jni.so
+│   ├── ./app/HoloSpiralWallpaper
+│   │   └── ./app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk
+│   ├── ./app/HTMLViewer
+│   │   └── ./app/HTMLViewer/HTMLViewer.apk
+│   ├── ./app/KeyChain
+│   │   └── ./app/KeyChain/KeyChain.apk
+│   ├── ./app/LatinImeGoogle
+│   │   ├── ./app/LatinImeGoogle/LatinImeGoogle.apk
+│   │   └── ./app/LatinImeGoogle/lib
+│   │       └── ./app/LatinImeGoogle/lib/arm
+│   │           └── ./app/LatinImeGoogle/lib/arm/libjni_unbundled_latinimegoogle.so
+│   ├── ./app/LiveWallpapers
+│   │   └── ./app/LiveWallpapers/LiveWallpapers.apk
+│   ├── ./app/LiveWallpapersPicker
+│   │   └── ./app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+│   ├── ./app/LocationEM2
+│   │   └── ./app/LocationEM2/LocationEM2.apk
+│   ├── ./app/Maps
+│   │   ├── ./app/Maps/lib
+│   │   │   └── ./app/Maps/lib/arm
+│   │   │       ├── ./app/Maps/lib/arm/libcrashreporterer.so
+│   │   │       └── ./app/Maps/lib/arm/libgmm-jni.so
+│   │   └── ./app/Maps/Maps.apk
+│   ├── ./app/mmi_test
+│   │   └── ./app/mmi_test/mmi_test.apk
+│   ├── ./app/mobileinfo
+│   │   └── ./app/mobileinfo/mobileinfo.apk
+│   ├── ./app/MRS_ANDOTA
+│   │   └── ./app/MRS_ANDOTA/MRS_ANDOTA.apk
+│   ├── ./app/MTKAndroidSuiteDaemon
+│   │   └── ./app/MTKAndroidSuiteDaemon/MTKAndroidSuiteDaemon.apk
+│   ├── ./app/MtkBt
+│   │   └── ./app/MtkBt/MtkBt.apk
+│   ├── ./app/MtkFloatMenu
+│   │   └── ./app/MtkFloatMenu/MtkFloatMenu.apk
+│   ├── ./app/MTKLogger
+│   │   └── ./app/MTKLogger/MTKLogger.apk
+│   ├── ./app/MTKThermalManager
+│   │   └── ./app/MTKThermalManager/MTKThermalManager.apk
+│   ├── ./app/Music2
+│   │   └── ./app/Music2/Music2.apk
+│   ├── ./app/MusicFX
+│   │   └── ./app/MusicFX/MusicFX.apk
+│   ├── ./app/NlpService
+│   │   └── ./app/NlpService/NlpService.apk
+│   ├── ./app/NoiseField
+│   │   └── ./app/NoiseField/NoiseField.apk
+│   ├── ./app/Omacp
+│   │   └── ./app/Omacp/Omacp.apk
+│   ├── ./app/PackageInstaller
+│   │   └── ./app/PackageInstaller/PackageInstaller.apk
+│   ├── ./app/PacProcessor
+│   │   ├── ./app/PacProcessor/lib
+│   │   │   └── ./app/PacProcessor/lib/arm
+│   │   │       └── ./app/PacProcessor/lib/arm/libjni_pacprocessor.so
+│   │   └── ./app/PacProcessor/PacProcessor.apk
+│   ├── ./app/PartnerBookmarksProvider
+│   │   └── ./app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+│   ├── ./app/PhaseBeam
+│   │   └── ./app/PhaseBeam/PhaseBeam.apk
+│   ├── ./app/Photos
+│   │   ├── ./app/Photos/lib
+│   │   │   └── ./app/Photos/lib/arm
+│   │   │       ├── ./app/Photos/lib/arm/libconsumerphotoeditor_native.so
+│   │   │       ├── ./app/Photos/lib/arm/libcrashreporterer.so
+│   │   │       ├── ./app/Photos/lib/arm/libcronet.so
+│   │   │       ├── ./app/Photos/lib/arm/libfilterframework_jni.so
+│   │   │       ├── ./app/Photos/lib/arm/libframesequence.so
+│   │   │       └── ./app/Photos/lib/arm/libmoviemaker-jni.so
+│   │   └── ./app/Photos/Photos.apk
+│   ├── ./app/PhotoTable
+│   │   └── ./app/PhotoTable/PhotoTable.apk
+│   ├── ./app/PrintSpooler
+│   │   ├── ./app/PrintSpooler/lib
+│   │   │   └── ./app/PrintSpooler/lib/arm
+│   │   │       └── ./app/PrintSpooler/lib/arm/libprintspooler_jni.so
+│   │   └── ./app/PrintSpooler/PrintSpooler.apk
+│   ├── ./app/SchedulePowerOnOff
+│   │   └── ./app/SchedulePowerOnOff/SchedulePowerOnOff.apk
+│   ├── ./app/SmartcardService
+│   │   └── ./app/SmartcardService/SmartcardService.apk
+│   ├── ./app/SoundRecorder
+│   │   └── ./app/SoundRecorder/SoundRecorder.apk
+│   ├── ./app/SystemUpdate
+│   │   └── ./app/SystemUpdate/SystemUpdate.apk
+│   ├── ./app/SystemUpdateAssistant
+│   │   └── ./app/SystemUpdateAssistant/SystemUpdateAssistant.apk
+│   ├── ./app/talkback
+│   │   └── ./app/talkback/talkback.apk
+│   ├── ./app/Uicc1Terminal
+│   │   └── ./app/Uicc1Terminal/Uicc1Terminal.apk
+│   ├── ./app/Uicc2Terminal
+│   │   └── ./app/Uicc2Terminal/Uicc2Terminal.apk
+│   ├── ./app/UserDictionaryProvider
+│   │   └── ./app/UserDictionaryProvider/UserDictionaryProvider.apk
+│   ├── ./app/Videos
+│   │   ├── ./app/Videos/lib
+│   │   │   └── ./app/Videos/lib/arm
+│   │   │       └── ./app/Videos/lib/arm/libWVphoneAPI.so
+│   │   └── ./app/Videos/Videos.apk
+│   ├── ./app/VisualizationWallpapers
+│   │   └── ./app/VisualizationWallpapers/VisualizationWallpapers.apk
+│   ├── ./app/WebViewGoogle
+│   │   ├── ./app/WebViewGoogle/lib
+│   │   │   └── ./app/WebViewGoogle/lib/arm
+│   │   │       └── ./app/WebViewGoogle/lib/arm/libwebviewchromium.so
+│   │   └── ./app/WebViewGoogle/WebViewGoogle.apk
+│   ├── ./app/YGPS
+│   │   └── ./app/YGPS/YGPS.apk
+│   └── ./app/YouTube
+│       ├── ./app/YouTube/lib
+│       │   └── ./app/YouTube/lib/arm
+│       │       ├── ./app/YouTube/lib/arm/libcronet.so
+│       │       ├── ./app/YouTube/lib/arm/libfilterframework_jni.so
+│       │       ├── ./app/YouTube/lib/arm/libluajit.so
+│       │       ├── ./app/YouTube/lib/arm/libm2ts_player.so
+│       │       ├── ./app/YouTube/lib/arm/libmoxieclient.so
+│       │       ├── ./app/YouTube/lib/arm/libmoxie.so
+│       │       ├── ./app/YouTube/lib/arm/libvpxJNI.so
+│       │       └── ./app/YouTube/lib/arm/libvpx.so
+│       └── ./app/YouTube/YouTube.apk
+├── ./bin
+│   ├── ./bin/6620_launcher
+│   ├── ./bin/6620_wmt_concurrency
+│   ├── ./bin/6620_wmt_lpbk
+│   ├── ./bin/AcdApiDaemon
+│   ├── ./bin/adb
+│   ├── ./bin/aee
+│   ├── ./bin/aee_archive
+│   ├── ./bin/aee_core_forwarder
+│   ├── ./bin/aee_dumpstate
+│   ├── ./bin/akmd09911
+│   ├── ./bin/akmd8963
+│   ├── ./bin/akmd8975
+│   ├── ./bin/am
+│   ├── ./bin/ami304d
+│   ├── ./bin/applypatch
+│   ├── ./bin/applysig
+│   ├── ./bin/appops
+│   ├── ./bin/app_process
+│   ├── ./bin/app_process32
+│   ├── ./bin/appwidget
+│   ├── ./bin/atcid
+│   ├── ./bin/atci_service
+│   ├── ./bin/atrace
+│   ├── ./bin/audiocmdservice_atci
+│   ├── ./bin/autokd
+│   ├── ./bin/badblocks
+│   ├── ./bin/batterywarning
+│   ├── ./bin/bcc
+│   ├── ./bin/blkid
+│   ├── ./bin/bmgr
+│   ├── ./bin/bmm050d
+│   ├── ./bin/bmm056d
+│   ├── ./bin/bootanimation
+│   ├── ./bin/boot_logo_updater
+│   ├── ./bin/btconfig
+│   ├── ./bin/btlogmask
+│   ├── ./bin/bu
+│   ├── ./bin/bugreport
+│   ├── ./bin/cat
+│   ├── ./bin/ccci_fsd
+│   ├── ./bin/ccci_mdinit
+│   ├── ./bin/chcon
+│   ├── ./bin/chmod
+│   ├── ./bin/chown
+│   ├── ./bin/clatd
+│   ├── ./bin/clear
+│   ├── ./bin/climax_hostSW
+│   ├── ./bin/cmp
+│   ├── ./bin/content
+│   ├── ./bin/cp
+│   ├── ./bin/dalvikvm
+│   ├── ./bin/dalvikvm32
+│   ├── ./bin/date
+│   ├── ./bin/dd
+│   ├── ./bin/debuggerd
+│   ├── ./bin/dex2oat
+│   ├── ./bin/df
+│   ├── ./bin/dhcp6c
+│   ├── ./bin/dhcp6ctl
+│   ├── ./bin/dhcp6s
+│   ├── ./bin/dhcpcd
+│   ├── ./bin/dm_agent_binder
+│   ├── ./bin/dmesg
+│   ├── ./bin/dmlog
+│   ├── ./bin/dnsmasq
+│   ├── ./bin/downloader
+│   ├── ./bin/dpm
+│   ├── ./bin/drmserver
+│   ├── ./bin/du
+│   ├── ./bin/dumpstate
+│   ├── ./bin/dumpsys
+│   ├── ./bin/e2fsck
+│   ├── ./bin/elan_iap
+│   ├── ./bin/emdlogger1
+│   ├── ./bin/em_svr
+│   ├── ./bin/epdg_wod
+│   ├── ./bin/factory
+│   ├── ./bin/FactoryNvServer
+│   ├── ./bin/fotabinder
+│   ├── ./bin/fsck_msdos
+│   ├── ./bin/fsck_msdos_mtk
+│   ├── ./bin/ft5336_upgrade
+│   ├── ./bin/geomagneticd
+│   ├── ./bin/getenforce
+│   ├── ./bin/getevent
+│   ├── ./bin/getprop
+│   ├── ./bin/getsebool
+│   ├── ./bin/GoogleOtaBinder
+│   ├── ./bin/grep
+│   ├── ./bin/gsm0710muxd
+│   ├── ./bin/gsm0710muxdmd2
+│   ├── ./bin/guiext-server
+│   ├── ./bin/gzip
+│   ├── ./bin/gzip_static
+│   ├── ./bin/halutil
+│   ├── ./bin/hd
+│   ├── ./bin/hostapd
+│   ├── ./bin/hostapd_cli
+│   ├── ./bin/id
+│   ├── ./bin/idmap
+│   ├── ./bin/ifconfig
+│   ├── ./bin/iftop
+│   ├── ./bin/ime
+│   ├── ./bin/input
+│   ├── ./bin/insmod
+│   ├── ./bin/installd
+│   ├── ./bin/install-recovery.sh
+│   ├── ./bin/ioctl
+│   ├── ./bin/ionice
+│   ├── ./bin/ip
+│   ├── ./bin/ip6tables
+│   ├── ./bin/ipod
+│   ├── ./bin/iptables
+│   ├── ./bin/keystore
+│   ├── ./bin/kill
+│   ├── ./bin/kpoc_charger
+│   ├── ./bin/lcdc_screen_cap
+│   ├── ./bin/linker
+│   ├── ./bin/lmkd
+│   ├── ./bin/ln
+│   ├── ./bin/load_policy
+│   ├── ./bin/log
+│   ├── ./bin/logcat
+│   ├── ./bin/logd
+│   ├── ./bin/logwrapper
+│   ├── ./bin/ls
+│   ├── ./bin/lsm303md
+│   ├── ./bin/lsmod
+│   ├── ./bin/lsof
+│   ├── ./bin/magd
+│   ├── ./bin/make_ext4fs
+│   ├── ./bin/matv
+│   ├── ./bin/mc6420d
+│   ├── ./bin/md5
+│   ├── ./bin/md_ctrl
+│   ├── ./bin/mdlogger
+│   ├── ./bin/mdnsd
+│   ├── ./bin/media
+│   ├── ./bin/mediaserver
+│   ├── ./bin/memorydumper
+│   ├── ./bin/memsicd
+│   ├── ./bin/memsicd3416x
+│   ├── ./bin/meta_tst
+│   ├── ./bin/mfv_ut
+│   ├── ./bin/mkdir
+│   ├── ./bin/mke2fs
+│   ├── ./bin/mknod
+│   ├── ./bin/mkswap
+│   ├── ./bin/mmp
+│   ├── ./bin/mobile_log_d
+│   ├── ./bin/monkey
+│   ├── ./bin/mount
+│   ├── ./bin/msensord
+│   ├── ./bin/mtk_agpsd
+│   ├── ./bin/mtkbt
+│   ├── ./bin/MtkCodecService
+│   ├── ./bin/mtkrild
+│   ├── ./bin/mtkrildmd2
+│   ├── ./bin/mtk_setprop
+│   ├── ./bin/mtpd
+│   ├── ./bin/muxreport
+│   ├── ./bin/mv
+│   ├── ./bin/nandread
+│   ├── ./bin/ndc
+│   ├── ./bin/netcfg
+│   ├── ./bin/netd
+│   ├── ./bin/netdiag
+│   ├── ./bin/netstat
+│   ├── ./bin/newfs_msdos
+│   ├── ./bin/nohup
+│   ├── ./bin/notify
+│   ├── ./bin/nvram_agent_binder
+│   ├── ./bin/nvram_daemon
+│   ├── ./bin/oatdump
+│   ├── ./bin/orientationd
+│   ├── ./bin/patchoat
+│   ├── ./bin/perf_native_test
+│   ├── ./bin/permission_check
+│   ├── ./bin/ping
+│   ├── ./bin/ping6
+│   ├── ./bin/pm
+│   ├── ./bin/ppl_agent
+│   ├── ./bin/pppd
+│   ├── ./bin/pppd_btdun
+│   ├── ./bin/pppd_dt
+│   ├── ./bin/pq
+│   ├── ./bin/printenv
+│   ├── ./bin/prlimit
+│   ├── ./bin/program_binary_service
+│   ├── ./bin/ps
+│   ├── ./bin/racoon
+│   ├── ./bin/radvd
+│   ├── ./bin/readlink
+│   ├── ./bin/reboot
+│   ├── ./bin/recovery
+│   ├── ./bin/renice
+│   ├── ./bin/requestsync
+│   ├── ./bin/resize2fs
+│   ├── ./bin/resize_ext4
+│   ├── ./bin/restorecon
+│   ├── ./bin/rm
+│   ├── ./bin/rmdir
+│   ├── ./bin/rmmod
+│   ├── ./bin/route
+│   ├── ./bin/rtt
+│   ├── ./bin/run-as
+│   ├── ./bin/runcon
+│   ├── ./bin/s62xd
+│   ├── ./bin/sbchk
+│   ├── ./bin/schedtest
+│   ├── ./bin/schedtop
+│   ├── ./bin/screencap
+│   ├── ./bin/screenrecord
+│   ├── ./bin/sdcard
+│   ├── ./bin/sendevent
+│   ├── ./bin/sensorservice
+│   ├── ./bin/service
+│   ├── ./bin/servicemanager
+│   ├── ./bin/setenforce
+│   ├── ./bin/setprop
+│   ├── ./bin/setsebool
+│   ├── ./bin/settings
+│   ├── ./bin/sh
+│   ├── ./bin/sleep
+│   ├── ./bin/smd
+│   ├── ./bin/sn
+│   ├── ./bin/spm_loader
+│   ├── ./bin/st480d
+│   ├── ./bin/start
+│   ├── ./bin/stop
+│   ├── ./bin/superumount
+│   ├── ./bin/surfaceflinger
+│   ├── ./bin/svc
+│   ├── ./bin/swapoff
+│   ├── ./bin/swapon
+│   ├── ./bin/sync
+│   ├── ./bin/tc
+│   ├── ./bin/terservice
+│   ├── ./bin/tertestclient
+│   ├── ./bin/tfa9890
+│   ├── ./bin/thermal
+│   ├── ./bin/thermald
+│   ├── ./bin/thermal_manager
+│   ├── ./bin/tiny_mkswap
+│   ├── ./bin/tiny_swapoff
+│   ├── ./bin/tiny_swapon
+│   ├── ./bin/toolbox
+│   ├── ./bin/top
+│   ├── ./bin/touch
+│   ├── ./bin/tune2fs
+│   ├── ./bin/uiautomator
+│   ├── ./bin/umount
+│   ├── ./bin/uncrypt
+│   ├── ./bin/uptime
+│   ├── ./bin/vdc
+│   ├── ./bin/vmstat
+│   ├── ./bin/vold
+│   ├── ./bin/watchprops
+│   ├── ./bin/wifi2agps
+│   ├── ./bin/wipe
+│   ├── ./bin/wm
+│   ├── ./bin/wmt_loader
+│   ├── ./bin/wpa_cli
+│   ├── ./bin/wpa_supplicant
+│   └── ./bin/xlog
+├── ./build.prop
+├── ./data
+│   ├── ./data/misc
+│   │   └── ./data/misc/ProjectConfig.mk
+│   └── ./data/recovery_rootcheck
+├── ./etc
+│   ├── ./etc/0707.speaker
+│   ├── ./etc/agps_profiles_conf2.xml
+│   ├── ./etc/apns-conf.xml
+│   ├── ./etc/appwidget
+│   │   └── ./etc/appwidget/3dwidgets.xml
+│   ├── ./etc/audio_effects.conf
+│   ├── ./etc/audio_policy.conf
+│   ├── ./etc/bluetooth
+│   │   ├── ./etc/bluetooth/auto_pair_blacklist.conf
+│   │   ├── ./etc/bluetooth/auto_pair_devlist.conf
+│   │   ├── ./etc/bluetooth/btconfig.xml
+│   │   ├── ./etc/bluetooth/bt_did.conf
+│   │   └── ./etc/bluetooth/bt_stack.conf
+│   ├── ./etc/ck_bulma_0707.config
+│   ├── ./etc/CK_DUMBO_0806.speaker
+│   ├── ./etc/clatd.conf
+│   ├── ./etc/coldboot.patch
+│   ├── ./etc/custom.conf
+│   ├── ./etc/dhcpcd
+│   │   ├── ./etc/dhcpcd/dhcpcd-hooks
+│   │   │   ├── ./etc/dhcpcd/dhcpcd-hooks/20-dns.conf
+│   │   │   └── ./etc/dhcpcd/dhcpcd-hooks/95-configured
+│   │   └── ./etc/dhcpcd/dhcpcd-run-hooks
+│   ├── ./etc/disableapplist.txt
+│   ├── ./etc/ecc_list.xml
+│   ├── ./etc/event-log-tags
+│   ├── ./etc/Example_0_0.KS_13X18_DUMBO.eq
+│   ├── ./etc/Example_0_0.KS_13X18_DUMBO.preset
+│   ├── ./etc/factory.ini
+│   ├── ./etc/fallback_fonts.xml
+│   ├── ./etc/firmware
+│   │   ├── ./etc/firmware/catcher_filter_1_wg_n.bin
+│   │   ├── ./etc/firmware/modem_1_wg_n.img
+│   │   ├── ./etc/firmware/mt6627
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v1_coeff.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v1_patch.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v2_coeff.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v2_patch.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v3_coeff.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v3_patch.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v4_coeff.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v4_patch.bin
+│   │   │   ├── ./etc/firmware/mt6627/mt6627_fm_v5_coeff.bin
+│   │   │   └── ./etc/firmware/mt6627/mt6627_fm_v5_patch.bin
+│   │   ├── ./etc/firmware/ROMv1_patch_1_0_hdr.bin
+│   │   ├── ./etc/firmware/ROMv1_patch_1_1_hdr.bin
+│   │   ├── ./etc/firmware/S_ANDRO_SFL.ini
+│   │   ├── ./etc/firmware/WIFI_RAM_CODE_SOC
+│   │   └── ./etc/firmware/WMT_SOC.cfg
+│   ├── ./etc/flat.preset
+│   ├── ./etc/fmr
+│   │   └── ./etc/fmr/mt6627_fm_cust.cfg
+│   ├── ./etc/fonts.xml
+│   ├── ./etc/geocoding.db
+│   ├── ./etc/getsystemtype.sh
+│   ├── ./etc/hosts
+│   ├── ./etc/HQ1_5dB.eq
+│   ├── ./etc/HQ1_5dB.preset
+│   ├── ./etc/HQ2.preset
+│   ├── ./etc/HQ_CK_0707.eq
+│   ├── ./etc/HQ_CK_0707.preset
+│   ├── ./etc/HQ_CK_0707.speaker
+│   ├── ./etc/HQ_CK_DUMBO_0806.eq
+│   ├── ./etc/HQ_CK_DUMBO_0806.preset
+│   ├── ./etc/iAmCdRom.iso
+│   ├── ./etc/KS_13X18_DUMBO.speaker
+│   ├── ./etc/LastSettings.txt
+│   ├── ./etc/mddb
+│   │   ├── ./etc/mddb/BPLGUInfoCustomAppSrcP_MT6592_S00_MOLY_WR8_W1449_MD_WG_MP_V16_P7_1_wg_n
+│   │   └── ./etc/mddb/DbgInfo_WR8.W1449.MD.WG.MP_CKT6592_WET_L_HSPA_MOLY_WR8_W1449_MD_WG_MP_V16_P7_2016_01_28_14_27_1_wg_n
+│   ├── ./etc/media_codecs.xml
+│   ├── ./etc/mkshrc
+│   ├── ./etc/mtklog-config.prop
+│   ├── ./etc/mtk_omx_core.cfg
+│   ├── ./etc/NOTICE.html.gz
+│   ├── ./etc/NumberHeadWithIDToByte
+│   ├── ./etc/partition_permission.sh
+│   ├── ./etc/perfservapplist.txt
+│   ├── ./etc/perfservboosttbl.txt
+│   ├── ./etc/perfservscntbl.txt
+│   ├── ./etc/permissions
+│   │   ├── ./etc/permissions/android.hardware.bluetooth_le.xml
+│   │   ├── ./etc/permissions/android.hardware.bluetooth.xml
+│   │   ├── ./etc/permissions/android.hardware.camera.xml
+│   │   ├── ./etc/permissions/android.hardware.faketouch.xml
+│   │   ├── ./etc/permissions/android.hardware.location.gps.xml
+│   │   ├── ./etc/permissions/android.hardware.microphone.xml
+│   │   ├── ./etc/permissions/android.hardware.sensor.accelerometer.xml
+│   │   ├── ./etc/permissions/android.hardware.sensor.compass.xml
+│   │   ├── ./etc/permissions/android.hardware.sensor.gyroscope.xml
+│   │   ├── ./etc/permissions/android.hardware.sensor.light.xml
+│   │   ├── ./etc/permissions/android.hardware.sensor.proximity.xml
+│   │   ├── ./etc/permissions/android.hardware.telephony.gsm.xml
+│   │   ├── ./etc/permissions/android.hardware.touchscreen.multitouch.distinct.xml
+│   │   ├── ./etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml
+│   │   ├── ./etc/permissions/android.hardware.touchscreen.multitouch.xml
+│   │   ├── ./etc/permissions/android.hardware.touchscreen.xml
+│   │   ├── ./etc/permissions/android.hardware.usb.accessory.xml
+│   │   ├── ./etc/permissions/android.hardware.usb.host.xml
+│   │   ├── ./etc/permissions/android.hardware.wifi.direct.xml
+│   │   ├── ./etc/permissions/android.hardware.wifi.xml
+│   │   ├── ./etc/permissions/android.software.live_wallpaper.xml
+│   │   ├── ./etc/permissions/android.software.sip.voip.xml
+│   │   ├── ./etc/permissions/android.software.sip.xml
+│   │   ├── ./etc/permissions/android.software.webview.xml
+│   │   ├── ./etc/permissions/com.android.location.provider.xml
+│   │   ├── ./etc/permissions/com.android.mediadrm.signer.xml
+│   │   ├── ./etc/permissions/com.android.media.remotedisplay.xml
+│   │   ├── ./etc/permissions/com.bq.mtk-signature.xml
+│   │   ├── ./etc/permissions/com.bq.signature.xml
+│   │   ├── ./etc/permissions/com.google.android.maps.xml
+│   │   ├── ./etc/permissions/com.google.android.media.effects.xml
+│   │   ├── ./etc/permissions/com.google.widevine.software.drm.xml
+│   │   ├── ./etc/permissions/com.mediatek.effect.xml
+│   │   ├── ./etc/permissions/handheld_core_hardware.xml
+│   │   ├── ./etc/permissions/media_codecs.xml
+│   │   ├── ./etc/permissions/org.simalliance.openmobileapi.xml
+│   │   └── ./etc/permissions/platform.xml
+│   ├── ./etc/ppp
+│   │   └── ./etc/ppp/ip-up-vpn
+│   ├── ./etc/preferred-apps
+│   │   └── ./etc/preferred-apps/google.xml
+│   ├── ./etc/preloaded-classes
+│   ├── ./etc/radvd
+│   │   └── ./etc/radvd/radvd.conf
+│   ├── ./etc/recovery.fstab
+│   ├── ./etc/recovery-resource.dat
+│   ├── ./etc/recovery.sig
+│   ├── ./etc/recovery.xml
+│   ├── ./etc/resmonwhitelist.txt
+│   ├── ./etc/security
+│   │   ├── ./etc/security/cacerts
+│   │   │   ├── ./etc/security/cacerts/00673b5b.0
+│   │   │   ├── ./etc/security/cacerts/02b73561.0
+│   │   │   ├── ./etc/security/cacerts/03f2b8cf.0
+│   │   │   ├── ./etc/security/cacerts/04f60c28.0
+│   │   │   ├── ./etc/security/cacerts/052e396b.0
+│   │   │   ├── ./etc/security/cacerts/08aef7bb.0
+│   │   │   ├── ./etc/security/cacerts/0d188d89.0
+│   │   │   ├── ./etc/security/cacerts/0d69c7e1.0
+│   │   │   ├── ./etc/security/cacerts/10531352.0
+│   │   │   ├── ./etc/security/cacerts/111e6273.0
+│   │   │   ├── ./etc/security/cacerts/119afc2e.0
+│   │   │   ├── ./etc/security/cacerts/124bbd54.0
+│   │   │   ├── ./etc/security/cacerts/12d55845.0
+│   │   │   ├── ./etc/security/cacerts/1676090a.0
+│   │   │   ├── ./etc/security/cacerts/17b51fe6.0
+│   │   │   ├── ./etc/security/cacerts/1dac3003.0
+│   │   │   ├── ./etc/security/cacerts/1dcd6f4c.0
+│   │   │   ├── ./etc/security/cacerts/1df5a75f.0
+│   │   │   ├── ./etc/security/cacerts/1e1eab7c.0
+│   │   │   ├── ./etc/security/cacerts/1e8e7201.0
+│   │   │   ├── ./etc/security/cacerts/1eb37bdf.0
+│   │   │   ├── ./etc/security/cacerts/1f58a078.0
+│   │   │   ├── ./etc/security/cacerts/21855f49.0
+│   │   │   ├── ./etc/security/cacerts/219d9499.0
+│   │   │   ├── ./etc/security/cacerts/23f4c490.0
+│   │   │   ├── ./etc/security/cacerts/27af790d.0
+│   │   │   ├── ./etc/security/cacerts/2add47b6.0
+│   │   │   ├── ./etc/security/cacerts/2afc57aa.0
+│   │   │   ├── ./etc/security/cacerts/2d9dafe4.0
+│   │   │   ├── ./etc/security/cacerts/2fa87019.0
+│   │   │   ├── ./etc/security/cacerts/2fb1850a.0
+│   │   │   ├── ./etc/security/cacerts/33815e15.0
+│   │   │   ├── ./etc/security/cacerts/33815e15.1
+│   │   │   ├── ./etc/security/cacerts/343eb6cb.0
+│   │   │   ├── ./etc/security/cacerts/35105088.0
+│   │   │   ├── ./etc/security/cacerts/399e7759.0
+│   │   │   ├── ./etc/security/cacerts/3a3b02ce.0
+│   │   │   ├── ./etc/security/cacerts/3ad48a91.0
+│   │   │   ├── ./etc/security/cacerts/3c58f906.0
+│   │   │   ├── ./etc/security/cacerts/3c860d51.0
+│   │   │   ├── ./etc/security/cacerts/3c9a4d3b.0
+│   │   │   ├── ./etc/security/cacerts/3d441de8.0
+│   │   │   ├── ./etc/security/cacerts/3e7271e8.0
+│   │   │   ├── ./etc/security/cacerts/40dc992e.0
+│   │   │   ├── ./etc/security/cacerts/418595b9.0
+│   │   │   ├── ./etc/security/cacerts/450c6e38.0
+│   │   │   ├── ./etc/security/cacerts/455f1b52.0
+│   │   │   ├── ./etc/security/cacerts/48a195d8.0
+│   │   │   ├── ./etc/security/cacerts/4d654d1d.0
+│   │   │   ├── ./etc/security/cacerts/4e18c148.0
+│   │   │   ├── ./etc/security/cacerts/4fbd6bfa.0
+│   │   │   ├── ./etc/security/cacerts/5021a0a2.0
+│   │   │   ├── ./etc/security/cacerts/5046c355.0
+│   │   │   ├── ./etc/security/cacerts/524d9b43.0
+│   │   │   ├── ./etc/security/cacerts/52b525c7.0
+│   │   │   ├── ./etc/security/cacerts/56b8a0b6.0
+│   │   │   ├── ./etc/security/cacerts/57692373.0
+│   │   │   ├── ./etc/security/cacerts/58a44af1.0
+│   │   │   ├── ./etc/security/cacerts/594f1775.0
+│   │   │   ├── ./etc/security/cacerts/5a3f0ff8.0
+│   │   │   ├── ./etc/security/cacerts/5cf9d536.0
+│   │   │   ├── ./etc/security/cacerts/5e4e69e7.0
+│   │   │   ├── ./etc/security/cacerts/5f47b495.0
+│   │   │   ├── ./etc/security/cacerts/60afe812.0
+│   │   │   ├── ./etc/security/cacerts/63a2c897.0
+│   │   │   ├── ./etc/security/cacerts/67495436.0
+│   │   │   ├── ./etc/security/cacerts/69105f4f.0
+│   │   │   ├── ./etc/security/cacerts/6e8bf996.0
+│   │   │   ├── ./etc/security/cacerts/6fcc125d.0
+│   │   │   ├── ./etc/security/cacerts/72f369af.0
+│   │   │   ├── ./etc/security/cacerts/72fa7371.0
+│   │   │   ├── ./etc/security/cacerts/74c26bd0.0
+│   │   │   ├── ./etc/security/cacerts/75680d2e.0
+│   │   │   ├── ./etc/security/cacerts/7651b327.0
+│   │   │   ├── ./etc/security/cacerts/76579174.0
+│   │   │   ├── ./etc/security/cacerts/7672ac4b.0
+│   │   │   ├── ./etc/security/cacerts/7999be0d.0
+│   │   │   ├── ./etc/security/cacerts/7a481e66.0
+│   │   │   ├── ./etc/security/cacerts/7a819ef2.0
+│   │   │   ├── ./etc/security/cacerts/7d3cd826.0
+│   │   │   ├── ./etc/security/cacerts/7d453d8f.0
+│   │   │   ├── ./etc/security/cacerts/81b9768f.0
+│   │   │   ├── ./etc/security/cacerts/82223c44.0
+│   │   │   ├── ./etc/security/cacerts/8470719d.0
+│   │   │   ├── ./etc/security/cacerts/84cba82f.0
+│   │   │   ├── ./etc/security/cacerts/85cde254.0
+│   │   │   ├── ./etc/security/cacerts/86212b19.0
+│   │   │   ├── ./etc/security/cacerts/87753b0d.0
+│   │   │   ├── ./etc/security/cacerts/882de061.0
+│   │   │   ├── ./etc/security/cacerts/895cad1a.0
+│   │   │   ├── ./etc/security/cacerts/89c02a45.0
+│   │   │   ├── ./etc/security/cacerts/8d6437c3.0
+│   │   │   ├── ./etc/security/cacerts/91739615.0
+│   │   │   ├── ./etc/security/cacerts/9339512a.0
+│   │   │   ├── ./etc/security/cacerts/9576d26b.0
+│   │   │   ├── ./etc/security/cacerts/95aff9e3.0
+│   │   │   ├── ./etc/security/cacerts/961f5451.0
+│   │   │   ├── ./etc/security/cacerts/9685a493.0
+│   │   │   ├── ./etc/security/cacerts/9772ca32.0
+│   │   │   ├── ./etc/security/cacerts/9ab62355.0
+│   │   │   ├── ./etc/security/cacerts/9d6523ce.0
+│   │   │   ├── ./etc/security/cacerts/9dbefe7b.0
+│   │   │   ├── ./etc/security/cacerts/9f533518.0
+│   │   │   ├── ./etc/security/cacerts/a0bc6fbb.0
+│   │   │   ├── ./etc/security/cacerts/a2c66da8.0
+│   │   │   ├── ./etc/security/cacerts/a2df7ad7.0
+│   │   │   ├── ./etc/security/cacerts/a3896b44.0
+│   │   │   ├── ./etc/security/cacerts/a7605362.0
+│   │   │   ├── ./etc/security/cacerts/a7d2cf64.0
+│   │   │   ├── ./etc/security/cacerts/ab5346f4.0
+│   │   │   ├── ./etc/security/cacerts/add67345.0
+│   │   │   ├── ./etc/security/cacerts/aeb67534.0
+│   │   │   ├── ./etc/security/cacerts/b0ed035a.0
+│   │   │   ├── ./etc/security/cacerts/b0f3e76e.0
+│   │   │   ├── ./etc/security/cacerts/b3fb433b.0
+│   │   │   ├── ./etc/security/cacerts/b7db1890.0
+│   │   │   ├── ./etc/security/cacerts/b872f2b4.0
+│   │   │   ├── ./etc/security/cacerts/bc3f2570.0
+│   │   │   ├── ./etc/security/cacerts/bda4cc84.0
+│   │   │   ├── ./etc/security/cacerts/bdacca6f.0
+│   │   │   ├── ./etc/security/cacerts/bf64f35b.0
+│   │   │   ├── ./etc/security/cacerts/c33a80d4.0
+│   │   │   ├── ./etc/security/cacerts/c3a6a9ad.0
+│   │   │   ├── ./etc/security/cacerts/c491639e.0
+│   │   │   ├── ./etc/security/cacerts/c51c224c.0
+│   │   │   ├── ./etc/security/cacerts/c527e4ab.0
+│   │   │   ├── ./etc/security/cacerts/c7e2a638.0
+│   │   │   ├── ./etc/security/cacerts/c90bc37d.0
+│   │   │   ├── ./etc/security/cacerts/cb156124.0
+│   │   │   ├── ./etc/security/cacerts/ccc52f49.0
+│   │   │   ├── ./etc/security/cacerts/cdaebb72.0
+│   │   │   ├── ./etc/security/cacerts/cf701eeb.0
+│   │   │   ├── ./etc/security/cacerts/d06393bb.0
+│   │   │   ├── ./etc/security/cacerts/d16a5865.0
+│   │   │   ├── ./etc/security/cacerts/d4c339cb.0
+│   │   │   ├── ./etc/security/cacerts/d59297b8.0
+│   │   │   ├── ./etc/security/cacerts/d64f06f3.0
+│   │   │   ├── ./etc/security/cacerts/d66b55d9.0
+│   │   │   ├── ./etc/security/cacerts/d7746a63.0
+│   │   │   ├── ./etc/security/cacerts/dbc54cab.0
+│   │   │   ├── ./etc/security/cacerts/ddc328ff.0
+│   │   │   ├── ./etc/security/cacerts/e268a4c5.0
+│   │   │   ├── ./etc/security/cacerts/e442e424.0
+│   │   │   ├── ./etc/security/cacerts/e48193cf.0
+│   │   │   ├── ./etc/security/cacerts/e60bf0c0.0
+│   │   │   ├── ./etc/security/cacerts/e775ed2d.0
+│   │   │   ├── ./etc/security/cacerts/e7b8d656.0
+│   │   │   ├── ./etc/security/cacerts/e8651083.0
+│   │   │   ├── ./etc/security/cacerts/ea169617.0
+│   │   │   ├── ./etc/security/cacerts/eb375c3e.0
+│   │   │   ├── ./etc/security/cacerts/ed39abd0.0
+│   │   │   ├── ./etc/security/cacerts/ed524cf5.0
+│   │   │   ├── ./etc/security/cacerts/ee7cd6fb.0
+│   │   │   ├── ./etc/security/cacerts/ee90b008.0
+│   │   │   ├── ./etc/security/cacerts/f58a60fe.0
+│   │   │   ├── ./etc/security/cacerts/f61bff45.0
+│   │   │   ├── ./etc/security/cacerts/f80cc7f6.0
+│   │   │   ├── ./etc/security/cacerts/fac084d7.0
+│   │   │   ├── ./etc/security/cacerts/facacbc6.0
+│   │   │   ├── ./etc/security/cacerts/fb126c6d.0
+│   │   │   ├── ./etc/security/cacerts/fde84897.0
+│   │   │   └── ./etc/security/cacerts/ff783690.0
+│   │   ├── ./etc/security/cacerts_supl
+│   │   │   ├── ./etc/security/cacerts_supl/848ea856.0
+│   │   │   ├── ./etc/security/cacerts_supl/c542733d.0
+│   │   │   └── ./etc/security/cacerts_supl/f336e3d1.0
+│   │   ├── ./etc/security/mac_permissions.xml
+│   │   └── ./etc/security/otacerts.zip
+│   ├── ./etc/Speech_0_0_KS.eq
+│   ├── ./etc/Speech_0_0_KS.preset
+│   ├── ./etc/Speech0630.eq
+│   ├── ./etc/Speech0630.preset
+│   ├── ./etc/Speech_CK_0707.eq
+│   ├── ./etc/Speech_CK_0707.preset
+│   ├── ./etc/Speech_CK_DUMBO_0806.eq
+│   ├── ./etc/Speech_CK_DUMBO_0806.preset
+│   ├── ./etc/Speech.preset
+│   ├── ./etc/spn-conf.xml
+│   ├── ./etc/system_fonts.xml
+│   ├── ./etc/TFA9890_CK_DUMBO.config
+│   ├── ./etc/TFA9890_DUMBO_0806.config
+│   ├── ./etc/TFA9890_N1B12_N1C3_v2.config
+│   ├── ./etc/TFA9890_N1C3_1_7_1.patch
+│   ├── ./etc/TFA9890_N1C3_2_1_1.patch
+│   ├── ./etc/throttle.sh
+│   ├── ./etc/updatecmds
+│   │   └── ./etc/updatecmds/google_generic_update.txt
+│   ├── ./etc/virtual-spn-conf-by-efgid1.xml
+│   ├── ./etc/virtual-spn-conf-by-efpnn.xml
+│   ├── ./etc/virtual-spn-conf-by-efspn.xml
+│   ├── ./etc/virtual-spn-conf-by-imsi.xml
+│   ├── ./etc/voicecommand
+│   │   └── ./etc/voicecommand/training
+│   │       └── ./etc/voicecommand/training/ubmfile
+│   │           ├── ./etc/voicecommand/training/ubmfile/128.dat
+│   │           ├── ./etc/voicecommand/training/ubmfile/64.dat
+│   │           ├── ./etc/voicecommand/training/ubmfile/antiCmds
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/c_e_dic.bin.f
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/c_e_dic.bin.gen
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/c_e_dic.bin.l
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/c_e_dic.bin.p
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/c_e_dic.bin.t
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/commandfilr3.dic
+│   │           │   ├── ./etc/voicecommand/training/ubmfile/antiCmds/Model1.bin
+│   │           │   └── ./etc/voicecommand/training/ubmfile/antiCmds/Model4.bin
+│   │           ├── ./etc/voicecommand/training/ubmfile/ubmModel0.bin
+│   │           ├── ./etc/voicecommand/training/ubmfile/ubmModel10.bin
+│   │           ├── ./etc/voicecommand/training/ubmfile/ubmModel1.bin
+│   │           ├── ./etc/voicecommand/training/ubmfile/ubmModel2.bin
+│   │           ├── ./etc/voicecommand/training/ubmfile/ubmModel3.bin
+│   │           └── ./etc/voicecommand/training/ubmfile/ubmModel4.bin
+│   ├── ./etc/wide-dhcpv6
+│   │   ├── ./etc/wide-dhcpv6/dhcp6c.conf
+│   │   ├── ./etc/wide-dhcpv6/dhcp6cctlkey
+│   │   ├── ./etc/wide-dhcpv6/dhcp6cDNS.conf
+│   │   ├── ./etc/wide-dhcpv6/dhcp6c.script
+│   │   └── ./etc/wide-dhcpv6/dhcp6s.conf
+│   ├── ./etc/wifi
+│   │   ├── ./etc/wifi/p2p_supplicant_overlay.conf
+│   │   ├── ./etc/wifi/wpa_supplicant.conf
+│   │   └── ./etc/wifi/wpa_supplicant_overlay.conf
+│   ├── ./etc/xlog-filter-default
+│   └── ./etc/xlog-filter-tags
+├── ./fonts
+│   ├── ./fonts/AndroidClock_Highlight.ttf
+│   ├── ./fonts/AndroidClock_Solid.ttf
+│   ├── ./fonts/AndroidClock.ttf
+│   ├── ./fonts/CarroisGothicSC-Regular.ttf
+│   ├── ./fonts/Clockopia.ttf
+│   ├── ./fonts/ComingSoon.ttf
+│   ├── ./fonts/CutiveMono.ttf
+│   ├── ./fonts/DancingScript-Bold.ttf
+│   ├── ./fonts/DancingScript-Regular.ttf
+│   ├── ./fonts/DroidSans-Bold.ttf
+│   ├── ./fonts/DroidSansMono.ttf
+│   ├── ./fonts/DroidSans.ttf
+│   ├── ./fonts/Lohit-Odia.ttf
+│   ├── ./fonts/MTLmr3m.ttf
+│   ├── ./fonts/NotoColorEmoji.ttf
+│   ├── ./fonts/NotoNaskh-Bold.ttf
+│   ├── ./fonts/NotoNaskh-Regular.ttf
+│   ├── ./fonts/NotoNaskhUI-Bold.ttf
+│   ├── ./fonts/NotoNaskhUI-Regular.ttf
+│   ├── ./fonts/NotoSansArmenian-Bold.ttf
+│   ├── ./fonts/NotoSansArmenian-Regular.ttf
+│   ├── ./fonts/NotoSansBalinese-Regular.ttf
+│   ├── ./fonts/NotoSansBatak-Regular.ttf
+│   ├── ./fonts/NotoSansBengali-Bold.ttf
+│   ├── ./fonts/NotoSansBengali-Regular.ttf
+│   ├── ./fonts/NotoSansBengaliUI-Bold.ttf
+│   ├── ./fonts/NotoSansBengaliUI-Regular.ttf
+│   ├── ./fonts/NotoSansBuginese-Regular.ttf
+│   ├── ./fonts/NotoSansBuhid-Regular.ttf
+│   ├── ./fonts/NotoSansCanadianAboriginal-Regular.ttf
+│   ├── ./fonts/NotoSansCham-Bold.ttf
+│   ├── ./fonts/NotoSansCham-Regular.ttf
+│   ├── ./fonts/NotoSansCherokee-Regular.ttf
+│   ├── ./fonts/NotoSansCoptic-Regular.ttf
+│   ├── ./fonts/NotoSansDevanagari-Bold.ttf
+│   ├── ./fonts/NotoSansDevanagari-Regular.ttf
+│   ├── ./fonts/NotoSansDevanagariUI-Bold.ttf
+│   ├── ./fonts/NotoSansDevanagariUI-Regular.ttf
+│   ├── ./fonts/NotoSansEthiopic-Bold.ttf
+│   ├── ./fonts/NotoSansEthiopic-Regular.ttf
+│   ├── ./fonts/NotoSansGeorgian-Bold.ttf
+│   ├── ./fonts/NotoSansGeorgian-Regular.ttf
+│   ├── ./fonts/NotoSansGlagolitic-Regular.ttf
+│   ├── ./fonts/NotoSansGujarati-Bold.ttf
+│   ├── ./fonts/NotoSansGujarati-Regular.ttf
+│   ├── ./fonts/NotoSansGujaratiUI-Bold.ttf
+│   ├── ./fonts/NotoSansGujaratiUI-Regular.ttf
+│   ├── ./fonts/NotoSansGurmukhi-Bold.ttf
+│   ├── ./fonts/NotoSansGurmukhi-Regular.ttf
+│   ├── ./fonts/NotoSansGurmukhiUI-Bold.ttf
+│   ├── ./fonts/NotoSansGurmukhiUI-Regular.ttf
+│   ├── ./fonts/NotoSansHans-Regular.otf
+│   ├── ./fonts/NotoSansHant-Regular.otf
+│   ├── ./fonts/NotoSansHanunoo-Regular.ttf
+│   ├── ./fonts/NotoSansHebrew-Bold.ttf
+│   ├── ./fonts/NotoSansHebrew-Regular.ttf
+│   ├── ./fonts/NotoSansJavanese-Regular.ttf
+│   ├── ./fonts/NotoSansJP-Regular.otf
+│   ├── ./fonts/NotoSansKannada-Bold.ttf
+│   ├── ./fonts/NotoSansKannada-Regular.ttf
+│   ├── ./fonts/NotoSansKannadaUI-Bold.ttf
+│   ├── ./fonts/NotoSansKannadaUI-Regular.ttf
+│   ├── ./fonts/NotoSansKayahLi-Regular.ttf
+│   ├── ./fonts/NotoSansKhmer-Bold.ttf
+│   ├── ./fonts/NotoSansKhmer-Regular.ttf
+│   ├── ./fonts/NotoSansKhmerUI-Bold.ttf
+│   ├── ./fonts/NotoSansKhmerUI-Regular.ttf
+│   ├── ./fonts/NotoSansKR-Regular.otf
+│   ├── ./fonts/NotoSansLao-Bold.ttf
+│   ├── ./fonts/NotoSansLao-Regular.ttf
+│   ├── ./fonts/NotoSansLaoUI-Bold.ttf
+│   ├── ./fonts/NotoSansLaoUI-Regular.ttf
+│   ├── ./fonts/NotoSansLepcha-Regular.ttf
+│   ├── ./fonts/NotoSansLimbu-Regular.ttf
+│   ├── ./fonts/NotoSansMalayalam-Bold.ttf
+│   ├── ./fonts/NotoSansMalayalam-Regular.ttf
+│   ├── ./fonts/NotoSansMalayalamUI-Bold.ttf
+│   ├── ./fonts/NotoSansMalayalamUI-Regular.ttf
+│   ├── ./fonts/NotoSansMeeteiMayek-Regular.ttf
+│   ├── ./fonts/NotoSansMyanmar-Bold.ttf
+│   ├── ./fonts/NotoSansMyanmar-Regular.ttf
+│   ├── ./fonts/NotoSansMyanmarUI-Bold.ttf
+│   ├── ./fonts/NotoSansMyanmarUI-Regular.ttf
+│   ├── ./fonts/NotoSansOlChiki-Regular.ttf
+│   ├── ./fonts/NotoSansRejang-Regular.ttf
+│   ├── ./fonts/NotoSansSaurashtra-Regular.ttf
+│   ├── ./fonts/NotoSansSinhala-Bold.ttf
+│   ├── ./fonts/NotoSansSinhala-Regular.ttf
+│   ├── ./fonts/NotoSansSundanese-Regular.ttf
+│   ├── ./fonts/NotoSansSylotiNagri-Regular.ttf
+│   ├── ./fonts/NotoSansSymbols-Regular-Subsetted.ttf
+│   ├── ./fonts/NotoSansTagbanwa-Regular.ttf
+│   ├── ./fonts/NotoSansTaiLe-Regular.ttf
+│   ├── ./fonts/NotoSansTaiTham-Regular.ttf
+│   ├── ./fonts/NotoSansTaiViet-Regular.ttf
+│   ├── ./fonts/NotoSansTamil-Bold.ttf
+│   ├── ./fonts/NotoSansTamil-Regular.ttf
+│   ├── ./fonts/NotoSansTamilUI-Bold.ttf
+│   ├── ./fonts/NotoSansTamilUI-Regular.ttf
+│   ├── ./fonts/NotoSansTelugu-Bold.ttf
+│   ├── ./fonts/NotoSansTelugu-Regular.ttf
+│   ├── ./fonts/NotoSansTeluguUI-Bold.ttf
+│   ├── ./fonts/NotoSansTeluguUI-Regular.ttf
+│   ├── ./fonts/NotoSansThaana-Bold.ttf
+│   ├── ./fonts/NotoSansThaana-Regular.ttf
+│   ├── ./fonts/NotoSansThai-Bold.ttf
+│   ├── ./fonts/NotoSansThai-Regular.ttf
+│   ├── ./fonts/NotoSansThaiUI-Bold.ttf
+│   ├── ./fonts/NotoSansThaiUI-Regular.ttf
+│   ├── ./fonts/NotoSansTifinagh-Regular.ttf
+│   ├── ./fonts/NotoSansYi-Regular.ttf
+│   ├── ./fonts/NotoSerif-BoldItalic.ttf
+│   ├── ./fonts/NotoSerif-Bold.ttf
+│   ├── ./fonts/NotoSerif-Italic.ttf
+│   ├── ./fonts/NotoSerif-Regular.ttf
+│   ├── ./fonts/Padauk.ttf
+│   ├── ./fonts/Roboto-BlackItalic.ttf
+│   ├── ./fonts/Roboto-Black.ttf
+│   ├── ./fonts/Roboto-BoldItalic.ttf
+│   ├── ./fonts/Roboto-Bold.ttf
+│   ├── ./fonts/RobotoCondensed-BoldItalic.ttf
+│   ├── ./fonts/RobotoCondensed-Bold.ttf
+│   ├── ./fonts/RobotoCondensed-Italic.ttf
+│   ├── ./fonts/RobotoCondensed-LightItalic.ttf
+│   ├── ./fonts/RobotoCondensed-Light.ttf
+│   ├── ./fonts/RobotoCondensed-Regular.ttf
+│   ├── ./fonts/Roboto-Italic.ttf
+│   ├── ./fonts/Roboto-LightItalic.ttf
+│   ├── ./fonts/Roboto-Light.ttf
+│   ├── ./fonts/Roboto-MediumItalic.ttf
+│   ├── ./fonts/Roboto-Medium.ttf
+│   ├── ./fonts/Roboto-Regular.ttf
+│   ├── ./fonts/Roboto-ThinItalic.ttf
+│   └── ./fonts/Roboto-Thin.ttf
+├── ./framework
+│   ├── ./framework/am.jar
+│   ├── ./framework/android.policy.jar
+│   ├── ./framework/android.test.runner.jar
+│   ├── ./framework/apache-xml.jar
+│   ├── ./framework/appops.jar
+│   ├── ./framework/appwidget.jar
+│   ├── ./framework/bmgr.jar
+│   ├── ./framework/bouncycastle.jar
+│   ├── ./framework/bu.jar
+│   ├── ./framework/com.android.future.usb.accessory.jar
+│   ├── ./framework/com.android.location.provider.jar
+│   ├── ./framework/com.android.mediadrm.signer.jar
+│   ├── ./framework/com.android.media.remotedisplay.jar
+│   ├── ./framework/com.bq.mtk-signature.jar
+│   ├── ./framework/com.bq.signature.jar
+│   ├── ./framework/com.google.android.maps.jar
+│   ├── ./framework/com.google.android.media.effects.jar
+│   ├── ./framework/com.google.widevine.software.drm.jar
+│   ├── ./framework/com.mediatek.effect.jar
+│   ├── ./framework/conscrypt.jar
+│   ├── ./framework/content.jar
+│   ├── ./framework/core-junit.jar
+│   ├── ./framework/core-libart.jar
+│   ├── ./framework/CustomPropInterface.jar
+│   ├── ./framework/dolby_ds.jar
+│   ├── ./framework/dpm.jar
+│   ├── ./framework/ethernet-service.jar
+│   ├── ./framework/ext.jar
+│   ├── ./framework/framework.jar
+│   ├── ./framework/framework-res.apk
+│   ├── ./framework/ime.jar
+│   ├── ./framework/ims-common.jar
+│   ├── ./framework/input.jar
+│   ├── ./framework/javax.obex.jar
+│   ├── ./framework/media_cmd.jar
+│   ├── ./framework/mediatek-common.jar
+│   ├── ./framework/mediatek-framework.jar
+│   ├── ./framework/mediatek-res
+│   │   └── ./framework/mediatek-res/mediatek-res.apk
+│   ├── ./framework/mediatek-telephony-common.jar
+│   ├── ./framework/mms-common.jar
+│   ├── ./framework/monkey.jar
+│   ├── ./framework/MultiWindowProxy.jar
+│   ├── ./framework/okhttp.jar
+│   ├── ./framework/org.simalliance.openmobileapi.jar
+│   ├── ./framework/pm.jar
+│   ├── ./framework/recovery.jar
+│   ├── ./framework/requestsync.jar
+│   ├── ./framework/services.jar
+│   ├── ./framework/settings.jar
+│   ├── ./framework/svc.jar
+│   ├── ./framework/telephony-common.jar
+│   ├── ./framework/uiautomator.jar
+│   ├── ./framework/voip-common.jar
+│   ├── ./framework/wifi-service.jar
+│   └── ./framework/wm.jar
+├── ./lib
+│   ├── ./lib/crtbegin_so.o
+│   ├── ./lib/crtend_so.o
+│   ├── ./lib/drm
+│   │   ├── ./lib/drm/libdrmctaplugin.so
+│   │   └── ./lib/drm/libdrmmtkplugin.so
+│   ├── ./lib/egl
+│   │   ├── ./lib/egl/egl.cfg
+│   │   ├── ./lib/egl/libEGL_mali.so
+│   │   ├── ./lib/egl/libGLESv1_CM_mali.so
+│   │   └── ./lib/egl/libGLESv2_mali.so
+│   ├── ./lib/hw
+│   │   ├── ./lib/hw/audio_policy.default.so
+│   │   ├── ./lib/hw/audio_policy.stub.so
+│   │   ├── ./lib/hw/audio.primary.default.so
+│   │   ├── ./lib/hw/audio.primary.mt6592.so
+│   │   ├── ./lib/hw/audio.r_submix.default.so
+│   │   ├── ./lib/hw/audio.usb.default.so
+│   │   ├── ./lib/hw/bluetooth.default.so
+│   │   ├── ./lib/hw/camera.default.so
+│   │   ├── ./lib/hw/camera.mt6592.so
+│   │   ├── ./lib/hw/gps.default.so
+│   │   ├── ./lib/hw/gralloc.default.so
+│   │   ├── ./lib/hw/gralloc.mt6592.so
+│   │   ├── ./lib/hw/hwcomposer.mt6592.so
+│   │   ├── ./lib/hw/keystore.default.so
+│   │   ├── ./lib/hw/lights.default.so
+│   │   ├── ./lib/hw/local_time.default.so
+│   │   ├── ./lib/hw/memtrack.mt6592.so
+│   │   ├── ./lib/hw/power.default.so
+│   │   ├── ./lib/hw/sensors.mt6592.so
+│   │   └── ./lib/hw/vibrator.default.so
+│   ├── ./lib/lib3a.so
+│   ├── ./lib/liba3m.so
+│   ├── ./lib/libacdk.so
+│   ├── ./lib/libadpcm.so
+│   ├── ./lib/libaed.so
+│   ├── ./lib/libAGifEncoder.so
+│   ├── ./lib/libamrvt.so
+│   ├── ./lib/libamr_wrap.so
+│   ├── ./lib/libandroidfw.so
+│   ├── ./lib/libandroid_runtime.so
+│   ├── ./lib/libandroid_servers.so
+│   ├── ./lib/libandroid.so
+│   ├── ./lib/libart-compiler.so
+│   ├── ./lib/libart-disassembler.so
+│   ├── ./lib/libart.so
+│   ├── ./lib/libatciserv_jni.so
+│   ├── ./lib/libatvctrlservice.so
+│   ├── ./lib/libaudiocompensationfilter.so
+│   ├── ./lib/libaudiocomponentengine.so
+│   ├── ./lib/libaudiocustparam.so
+│   ├── ./lib/libaudiodcrflt.so
+│   ├── ./lib/libaudioeffect_jni.so
+│   ├── ./lib/libaudioflinger.so
+│   ├── ./lib/libaudiomtkdcremoval.so
+│   ├── ./lib/libaudiopolicymanagerdefault.so
+│   ├── ./lib/libaudiopolicymanager.so
+│   ├── ./lib/libaudiopolicyservice.so
+│   ├── ./lib/libaudio-resampler.so
+│   ├── ./lib/libaudioresampler.so
+│   ├── ./lib/libaudiosetting.so
+│   ├── ./lib/libaudioutils.so
+│   ├── ./lib/libawb_wrap.so
+│   ├── ./lib/libbacktrace_libc++.so
+│   ├── ./lib/libbacktrace.so
+│   ├── ./lib/libbcc.so
+│   ├── ./lib/libbcinfo.so
+│   ├── ./lib/libbessound_hd_mtk.so
+│   ├── ./lib/libbinder.so
+│   ├── ./lib/libblisrc32.so
+│   ├── ./lib/libblisrc.so
+│   ├── ./lib/libbluetoothdrv.so
+│   ├── ./lib/libbluetoothem_mtk.so
+│   ├── ./lib/libbluetooth_jni.so
+│   ├── ./lib/libbluetooth_mtk.so
+│   ├── ./lib/libbluetooth_relayer.so
+│   ├── ./lib/libBnMtkCodec.so
+│   ├── ./lib/libbtcust.so
+│   ├── ./lib/libbtcusttable.so
+│   ├── ./lib/libbtcusttc1.so
+│   ├── ./lib/libbtem.so
+│   ├── ./lib/libbtpcm.so
+│   ├── ./lib/libbtsession.so
+│   ├── ./lib/libbtsniff.so
+│   ├── ./lib/libbtstd.so
+│   ├── ./lib/libbwc.so
+│   ├── ./lib/libcamalgo.so
+│   ├── ./lib/libcam.camadapter.so
+│   ├── ./lib/libcam.campipe.so
+│   ├── ./lib/libcam.camshot.so
+│   ├── ./lib/libcam.client.so
+│   ├── ./lib/libcam.device1.so
+│   ├── ./lib/libcamdrv.so
+│   ├── ./lib/libcamera_client_mtk.so
+│   ├── ./lib/libcamera_client.so
+│   ├── ./lib/libcameracustom.so
+│   ├── ./lib/libcamera_metadata.so
+│   ├── ./lib/libcameraservice.so
+│   ├── ./lib/libcam.exif.so
+│   ├── ./lib/libcam_hwutils.so
+│   ├── ./lib/libcam_mmp.so
+│   ├── ./lib/libcam.paramsmgr.so
+│   ├── ./lib/libcam_platform.so
+│   ├── ./lib/libcam.sdkclient.so
+│   ├── ./lib/libcam.utils.sensorlistener.so
+│   ├── ./lib/libcam_utils.so
+│   ├── ./lib/libcam.utils.so
+│   ├── ./lib/libccci_util.so
+│   ├── ./lib/libchilkat.so
+│   ├── ./lib/libclcore.bc
+│   ├── ./lib/libclcore_debug.bc
+│   ├── ./lib/libclcore_neon.bc
+│   ├── ./lib/libClearMotionFW.so
+│   ├── ./lib/libcommon_time_client.so
+│   ├── ./lib/libcompiler_rt.so
+│   ├── ./lib/libcrypto.so
+│   ├── ./lib/libc.so
+│   ├── ./lib/libc++.so
+│   ├── ./lib/libcurl.so
+│   ├── ./lib/libcustom_jni.so
+│   ├── ./lib/libcustom_nvram.so
+│   ├── ./lib/libcustom_prop.so
+│   ├── ./lib/libcutils.so
+│   ├── ./lib/libcvsd_mtk.so
+│   ├── ./lib/libdcfdecoderjni.so
+│   ├── ./lib/libdefcontainer_jni.so
+│   ├── ./lib/libdirect-coredump.so
+│   ├── ./lib/libdiskconfig.so
+│   ├── ./lib/libdl.so
+│   ├── ./lib/libdpframework.so
+│   ├── ./lib/libdrmframework_jni.so
+│   ├── ./lib/libdrmframework.so
+│   ├── ./lib/libdrmmtkutil.so
+│   ├── ./lib/libdrmmtkwhitelist.so
+│   ├── ./lib/libeffects.so
+│   ├── ./lib/libEGL.so
+│   ├── ./lib/libem_bt_jni.so
+│   ├── ./lib/libem_gpio_jni.so
+│   ├── ./lib/libem_lte_jni.so
+│   ├── ./lib/libem_modem_jni.so
+│   ├── ./lib/libem_sensor_jni.so
+│   ├── ./lib/libem_support_jni.so
+│   ├── ./lib/libem_usb_jni.so
+│   ├── ./lib/libem_wifi_jni.so
+│   ├── ./lib/libETC1.so
+│   ├── ./lib/libexif.so
+│   ├── ./lib/libexpat.so
+│   ├── ./lib/libext2_blkid.so
+│   ├── ./lib/libext2_com_err.so
+│   ├── ./lib/libext2_e2p.so
+│   ├── ./lib/libext2fs.so
+│   ├── ./lib/libext2_profile.so
+│   ├── ./lib/libext2_quota.so
+│   ├── ./lib/libext2_uuid.so
+│   ├── ./lib/libext4_utils.so
+│   ├── ./lib/libextadvanced_jni.so
+│   ├── ./lib/libextbip_jni.so
+│   ├── ./lib/libextbip.so
+│   ├── ./lib/libextbpp_jni.so
+│   ├── ./lib/libextbpp.so
+│   ├── ./lib/libextdun_jni.so
+│   ├── ./lib/libextem.so
+│   ├── ./lib/libextftp_jni.so
+│   ├── ./lib/libextftp.so
+│   ├── ./lib/libextmap_jni.so
+│   ├── ./lib/libextmap.so
+│   ├── ./lib/libextsimap_jni.so
+│   ├── ./lib/libextsimap.so
+│   ├── ./lib/libextsys_jni.so
+│   ├── ./lib/libextsys.so
+│   ├── ./lib/libexttestmode.so
+│   ├── ./lib/libf2fs_sparseblock.so
+│   ├── ./lib/libfeatureio.so
+│   ├── ./lib/libFFTEm.so
+│   ├── ./lib/libfile_op.so
+│   ├── ./lib/libfilterfw.so
+│   ├── ./lib/libfilterpack_facedetect.so
+│   ├── ./lib/libfilterpack_imageproc.so
+│   ├── ./lib/libfmcust.so
+│   ├── ./lib/libfmjni.so
+│   ├── ./lib/libfmmt6620.so
+│   ├── ./lib/libfmmt6627.so
+│   ├── ./lib/libfmmt6628.so
+│   ├── ./lib/libft2.so
+│   ├── ./lib/libgabi++.so
+│   ├── ./lib/libgccdemangle.so
+│   ├── ./lib/libGdmaScalerPipe.so
+│   ├── ./lib/libgdx-audio.so
+│   ├── ./lib/libgdx-bullet.so
+│   ├── ./lib/libgdx-freetype.so
+│   ├── ./lib/libgdx-image.so
+│   ├── ./lib/libgdx.so
+│   ├── ./lib/libgifEncoder_jni.so
+│   ├── ./lib/libGLES_trace.so
+│   ├── ./lib/libGLESv1_CM.so
+│   ├── ./lib/libGLESv2.so
+│   ├── ./lib/libGLESv3.so
+│   ├── ./lib/libgpu_aux.so
+│   ├── ./lib/libgralloc_extra.so
+│   ├── ./lib/libgraphite2.so
+│   ├── ./lib/libgui_ext.so
+│   ├── ./lib/libgui.so
+│   ├── ./lib/libhardware_legacy.so
+│   ├── ./lib/libhardware.so
+│   ├── ./lib/libharfbuzz_ng.so
+│   ├── ./lib/libHEVCdec_sa.ca7.android.so
+│   ├── ./lib/libhotknot.so
+│   ├── ./lib/libhotknot_vendor.so
+│   ├── ./lib/libhwm.so
+│   ├── ./lib/libhwui.so
+│   ├── ./lib/libicui18n.so
+│   ├── ./lib/libicuuc.so
+│   ├── ./lib/libimageio_plat_drv.so
+│   ├── ./lib/libimageio.so
+│   ├── ./lib/libimg_utils.so
+│   ├── ./lib/libinputflinger.so
+│   ├── ./lib/libinputservice.so
+│   ├── ./lib/libinput.so
+│   ├── ./lib/libion_mtk.so
+│   ├── ./lib/libion.so
+│   ├── ./lib/libipod.so
+│   ├── ./lib/libiprouteutil.so
+│   ├── ./lib/libja3m.so
+│   ├── ./lib/libjavacore.so
+│   ├── ./lib/libjavacrypto.so
+│   ├── ./lib/libjhead_jni.so
+│   ├── ./lib/libjhead.so
+│   ├── ./lib/libJniAtvService.so
+│   ├── ./lib/libjni_eglfence.so
+│   ├── ./lib/libjni_filtershow_filters.so
+│   ├── ./lib/libjnigraphics.so
+│   ├── ./lib/libjni_jpegstream.so
+│   ├── ./lib/libjni_motion_track.so
+│   ├── ./lib/libjni_pacprocessor.so
+│   ├── ./lib/libjni_pq.so
+│   ├── ./lib/libjpeg.so
+│   ├── ./lib/libJpgDecPipe.so
+│   ├── ./lib/libJpgEncPipe.so
+│   ├── ./lib/libjtranscode.so
+│   ├── ./lib/libkeystore_binder.so
+│   ├── ./lib/libLLVM.so
+│   ├── ./lib/liblog.so
+│   ├── ./lib/liblogwrap.so
+│   ├── ./lib/libm4u.so
+│   ├── ./lib/libMali.so
+│   ├── ./lib/libmatv_cust.so
+│   ├── ./lib/libmdloggerrecycle.so
+│   ├── ./lib/libmdnssd.so
+│   ├── ./lib/libmedia_jni.so
+│   ├── ./lib/libmedialogservice.so
+│   ├── ./lib/libmediandk.so
+│   ├── ./lib/libmediaplayerservice.so
+│   ├── ./lib/libmedia.so
+│   ├── ./lib/libmediatek_exceptionlog.so
+│   ├── ./lib/libmemoryDumpEncoder.so
+│   ├── ./lib/libmemorydumper.so
+│   ├── ./lib/libmemtrack.so
+│   ├── ./lib/libmhalImageCodec.so
+│   ├── ./lib/libminikin.so
+│   ├── ./lib/libMJCjni.so
+│   ├── ./lib/libmjc.so
+│   ├── ./lib/libmmprofile_jni.so
+│   ├── ./lib/libmmprofile.so
+│   ├── ./lib/libmmsdkservice.feature.so
+│   ├── ./lib/libmmsdkservice.so
+│   ├── ./lib/libmnl.so
+│   ├── ./lib/libmp4enc_sa.ca7.so
+│   ├── ./lib/libmpodecoder.so
+│   ├── ./lib/libmpoencoder.so
+│   ├── ./lib/libmpojni.so
+│   ├── ./lib/libmpo.so
+│   ├── ./lib/libmsbc_mtk.so
+│   ├── ./lib/libm.so
+│   ├── ./lib/libmtb.so
+│   ├── ./lib/libmtcloader.so
+│   ├── ./lib/libmtkbtextspp.so
+│   ├── ./lib/libmtk_cipher.so
+│   ├── ./lib/libmtk_drvb.so
+│   ├── ./lib/libmtkjpeg.so
+│   ├── ./lib/libmtklimiter.so
+│   ├── ./lib/libmtk_mali_user.so
+│   ├── ./lib/libmtk_mmutils.so
+│   ├── ./lib/libMtkOmxAdpcmDec.so
+│   ├── ./lib/libMtkOmxAdpcmEnc.so
+│   ├── ./lib/libMtkOmxAlacDec.so
+│   ├── ./lib/libMtkOmxApeDec.so
+│   ├── ./lib/libMtkOmxCore.so
+│   ├── ./lib/libMtkOmxFlacDec.so
+│   ├── ./lib/libMtkOmxG711Dec.so
+│   ├── ./lib/libMtkOmxGsmDec.so
+│   ├── ./lib/libMtkOmxMp3Dec.so
+│   ├── ./lib/libMtkOmxRawDec.so
+│   ├── ./lib/libMtkOmxVdec.so
+│   ├── ./lib/libMtkOmxVenc.so
+│   ├── ./lib/libMtkOmxVorbisEnc.so
+│   ├── ./lib/libmtkplayer.so
+│   ├── ./lib/libmtkshifter.so
+│   ├── ./lib/libmtksqlite3_android.so
+│   ├── ./lib/libmtksqlite3_custom.so
+│   ├── ./lib/libMtkVideoTranscoder.so
+│   ├── ./lib/libmtp.so
+│   ├── ./lib/libmyaes.so
+│   ├── ./lib/libnativebridge.so
+│   ├── ./lib/libnativecheck-jni.so
+│   ├── ./lib/libnativehelper.so
+│   ├── ./lib/libnbaio.so
+│   ├── ./lib/libnetd_client.so
+│   ├── ./lib/libnetlink.so
+│   ├── ./lib/libnetutils.so
+│   ├── ./lib/libnfc_ndef.so
+│   ├── ./lib/libnl.so
+│   ├── ./lib/libnvramagentclient.so
+│   ├── ./lib/libnvram_daemon_callback.so
+│   ├── ./lib/libnvram_platform.so
+│   ├── ./lib/libnvram_sec.so
+│   ├── ./lib/libnvram.so
+│   ├── ./lib/libOpenMAXAL.so
+│   ├── ./lib/libOpenSLES.so
+│   ├── ./lib/libopus.so
+│   ├── ./lib/libpac.so
+│   ├── ./lib/libpalsecurity.so
+│   ├── ./lib/libpalwlan_mtk.so
+│   ├── ./lib/libpcre.so
+│   ├── ./lib/libpdfium.so
+│   ├── ./lib/libperfservicenative.so
+│   ├── ./lib/libperfservice.so
+│   ├── ./lib/libpixelflinger.so
+│   ├── ./lib/libpng.so
+│   ├── ./lib/libpowermanager.so
+│   ├── ./lib/libpower.so
+│   ├── ./lib/libpppbtdun.so
+│   ├── ./lib/libPQjni.so
+│   ├── ./lib/libprintspooler_jni.so
+│   ├── ./lib/libprocessgroup.so
+│   ├── ./lib/libreference-ril.so
+│   ├── ./lib/librilmtkmd2.so
+│   ├── ./lib/librilmtk.so
+│   ├── ./lib/libril.so
+│   ├── ./lib/librilutils.so
+│   ├── ./lib/libRScpp.so
+│   ├── ./lib/libRSCpuRef.so
+│   ├── ./lib/libRSDriver.so
+│   ├── ./lib/librs_jni.so
+│   ├── ./lib/libRS.so
+│   ├── ./lib/librtp_jni.so
+│   ├── ./lib/libsapi_so_1.so
+│   ├── ./lib/libsbccodec.so
+│   ├── ./lib/libsec.so
+│   ├── ./lib/libselinux.so
+│   ├── ./lib/libsensorservice.so
+│   ├── ./lib/libserviceutility.so
+│   ├── ./lib/libshowlogo.so
+│   ├── ./lib/libsigchain.so
+│   ├── ./lib/libskia.so
+│   ├── ./lib/libsoftkeymaster.so
+│   ├── ./lib/libsonivox.so
+│   ├── ./lib/libsoundpool.so
+│   ├── ./lib/libsoundtriggerservice.so
+│   ├── ./lib/libsoundtrigger.so
+│   ├── ./lib/libsparse.so
+│   ├── ./lib/libspeech_enh_lib.so
+│   ├── ./lib/libspeexresampler.so
+│   ├── ./lib/libsqlite_jni.so
+│   ├── ./lib/libsqlite.so
+│   ├── ./lib/libssladp.so
+│   ├── ./lib/libssl.so
+│   ├── ./lib/libstagefright_amrnb_common.so
+│   ├── ./lib/libstagefright_avc_common.so
+│   ├── ./lib/libstagefright_enc_common.so
+│   ├── ./lib/libstagefright_foundation.so
+│   ├── ./lib/libstagefright_httplive.so
+│   ├── ./lib/libstagefright_http_support.so
+│   ├── ./lib/libstagefrighthw.so
+│   ├── ./lib/libstagefright_omx.so
+│   ├── ./lib/libstagefright.so
+│   ├── ./lib/libstagefright_soft_aacdec.so
+│   ├── ./lib/libstagefright_soft_aacenc.so
+│   ├── ./lib/libstagefright_soft_amrdec.so
+│   ├── ./lib/libstagefright_soft_amrnbenc.so
+│   ├── ./lib/libstagefright_soft_amrwbenc.so
+│   ├── ./lib/libstagefright_soft_flacenc.so
+│   ├── ./lib/libstagefright_soft_g711dec.so
+│   ├── ./lib/libstagefright_soft_gsmdec.so
+│   ├── ./lib/libstagefright_soft_h264dec.so
+│   ├── ./lib/libstagefright_soft_h264enc.so
+│   ├── ./lib/libstagefright_soft_hevcdec.so
+│   ├── ./lib/libstagefright_soft_mp3dec.so
+│   ├── ./lib/libstagefright_soft_mpeg4dec.so
+│   ├── ./lib/libstagefright_soft_mpeg4enc.so
+│   ├── ./lib/libstagefright_soft_opusdec.so
+│   ├── ./lib/libstagefright_soft_rawdec.so
+│   ├── ./lib/libstagefright_soft_vorbisdec.so
+│   ├── ./lib/libstagefright_soft_vpxdec.so
+│   ├── ./lib/libstagefright_soft_vpxenc.so
+│   ├── ./lib/libstagefright_wfd.so
+│   ├── ./lib/libstagefright_yuv.so
+│   ├── ./lib/libstdc++.so
+│   ├── ./lib/libstlport.so
+│   ├── ./lib/libsurfaceflinger_ddmconnection.so
+│   ├── ./lib/libsurfaceflinger.so
+│   ├── ./lib/libsuspend.so
+│   ├── ./lib/libSwJpgCodec.so
+│   ├── ./lib/libsync.so
+│   ├── ./lib/libsysutils.so
+│   ├── ./lib/libterservice.so
+│   ├── ./lib/libtfa9890.so
+│   ├── ./lib/libtimestretch.so
+│   ├── ./lib/libtinyalsa.so
+│   ├── ./lib/libtouchfilter.so
+│   ├── ./lib/libudf.so
+│   ├── ./lib/libui_ext.so
+│   ├── ./lib/libui.so
+│   ├── ./lib/libunwind-ptrace.so
+│   ├── ./lib/libunwind.so
+│   ├── ./lib/libusbhost.so
+│   ├── ./lib/libutils.so
+│   ├── ./lib/libvariablespeed.so
+│   ├── ./lib/libvc1dec_sa.ca7.so
+│   ├── ./lib/libvcodecdrv.so
+│   ├── ./lib/libvcodec_oal.so
+│   ├── ./lib/libvcodec_utility.so
+│   ├── ./lib/libvie_jni.so
+│   ├── ./lib/libvie.so
+│   ├── ./lib/libvixl.so
+│   ├── ./lib/libvoicerecognition_jni.so
+│   ├── ./lib/libvoicerecognition.so
+│   ├── ./lib/libvorbisidec.so
+│   ├── ./lib/libvp8dec_sa.ca7.so
+│   ├── ./lib/libvp9dec_sa.ca7.so
+│   ├── ./lib/libvt_custom.so
+│   ├── ./lib/libvtmal.so
+│   ├── ./lib/libwapi.so
+│   ├── ./lib/libwebrtc_audio_preprocessing.so
+│   ├── ./lib/libwebviewchromium_loader.so
+│   ├── ./lib/libwebviewchromium_plat_support.so
+│   ├── ./lib/libwifi-service.so
+│   ├── ./lib/libwifitest.so
+│   ├── ./lib/libwilhelm.so
+│   ├── ./lib/libwpa_client.so
+│   ├── ./lib/libz.so
+│   ├── ./lib/mtk-rilmd2.so
+│   ├── ./lib/mtk-ril.so
+│   ├── ./lib/soundfx
+│   │   ├── ./lib/soundfx/libaudiopreprocessing.so
+│   │   ├── ./lib/soundfx/libbundlewrapper.so
+│   │   ├── ./lib/soundfx/libdownmix.so
+│   │   ├── ./lib/soundfx/libeffectproxy.so
+│   │   ├── ./lib/soundfx/libldnhncr.so
+│   │   ├── ./lib/soundfx/libreverbwrapper.so
+│   │   └── ./lib/soundfx/libvisualizer.so
+│   └── ./lib/ssl
+│       └── ./lib/ssl/engines
+│           └── ./lib/ssl/engines/libkeystore.so
+├── ./lost+found
+├── ./media
+│   ├── ./media/audio
+│   │   ├── ./media/audio/alarms
+│   │   │   ├── ./media/audio/alarms/Argon.ogg
+│   │   │   ├── ./media/audio/alarms/Carbon.ogg
+│   │   │   ├── ./media/audio/alarms/Helium.ogg
+│   │   │   ├── ./media/audio/alarms/Krypton.ogg
+│   │   │   ├── ./media/audio/alarms/Neon.ogg
+│   │   │   ├── ./media/audio/alarms/Osmium.ogg
+│   │   │   ├── ./media/audio/alarms/Oxygen.ogg
+│   │   │   └── ./media/audio/alarms/Platinum.ogg
+│   │   ├── ./media/audio/notifications
+│   │   │   ├── ./media/audio/notifications/Aquaris.mp3
+│   │   │   ├── ./media/audio/notifications/Ariel.ogg
+│   │   │   ├── ./media/audio/notifications/Carme.ogg
+│   │   │   ├── ./media/audio/notifications/Ceres.ogg
+│   │   │   ├── ./media/audio/notifications/Elara.ogg
+│   │   │   ├── ./media/audio/notifications/Europa.ogg
+│   │   │   ├── ./media/audio/notifications/Iapetus.ogg
+│   │   │   ├── ./media/audio/notifications/Io.ogg
+│   │   │   ├── ./media/audio/notifications/Rhea.ogg
+│   │   │   ├── ./media/audio/notifications/Salacia.ogg
+│   │   │   ├── ./media/audio/notifications/Tethys.ogg
+│   │   │   └── ./media/audio/notifications/Titan.ogg
+│   │   ├── ./media/audio/ringtones
+│   │   │   ├── ./media/audio/ringtones/AquarisRing.mp3
+│   │   │   ├── ./media/audio/ringtones/Callisto.ogg
+│   │   │   ├── ./media/audio/ringtones/Dione.ogg
+│   │   │   ├── ./media/audio/ringtones/Ganymede.ogg
+│   │   │   ├── ./media/audio/ringtones/Luna.ogg
+│   │   │   ├── ./media/audio/ringtones/Oberon.ogg
+│   │   │   ├── ./media/audio/ringtones/Phobos.ogg
+│   │   │   ├── ./media/audio/ringtones/RobotsforEveryone.ogg
+│   │   │   ├── ./media/audio/ringtones/Sedna.ogg
+│   │   │   ├── ./media/audio/ringtones/SpagnolaOrchestration.ogg
+│   │   │   ├── ./media/audio/ringtones/Titania.ogg
+│   │   │   ├── ./media/audio/ringtones/Triton.ogg
+│   │   │   └── ./media/audio/ringtones/Umbriel.ogg
+│   │   └── ./media/audio/ui
+│   │       ├── ./media/audio/ui/camera_click.ogg
+│   │       ├── ./media/audio/ui/camera_focus.ogg
+│   │       ├── ./media/audio/ui/camera_shutter.ogg
+│   │       ├── ./media/audio/ui/Dock.ogg
+│   │       ├── ./media/audio/ui/Effect_Tick.ogg
+│   │       ├── ./media/audio/ui/KeypressDelete.ogg
+│   │       ├── ./media/audio/ui/KeypressInvalid.ogg
+│   │       ├── ./media/audio/ui/KeypressReturn.ogg
+│   │       ├── ./media/audio/ui/KeypressSpacebar.ogg
+│   │       ├── ./media/audio/ui/KeypressStandard.ogg
+│   │       ├── ./media/audio/ui/Lock.ogg
+│   │       ├── ./media/audio/ui/LowBattery.ogg
+│   │       ├── ./media/audio/ui/Undock.ogg
+│   │       ├── ./media/audio/ui/Unlock.ogg
+│   │       ├── ./media/audio/ui/VideoRecord.ogg
+│   │       └── ./media/audio/ui/WirelessChargingStarted.ogg
+│   ├── ./media/bootanimation.zip
+│   ├── ./media/images
+│   │   └── ./media/images/drm_disable_icon.png
+│   ├── ./media/shutanimation.zip
+│   └── ./media/video
+│       ├── ./media/video/edge720p.png
+│       ├── ./media/video/edge.png
+│       └── ./media/video/gen30.mp4
+├── ./plugin
+│   ├── ./plugin/DataProtection
+│   │   ├── ./plugin/DataProtection/DataProtection.apk
+│   │   └── ./plugin/DataProtection/DataProtection.mpinfo
+│   ├── ./plugin/FwkPlugin
+│   │   ├── ./plugin/FwkPlugin/FwkPlugin.apk
+│   │   └── ./plugin/FwkPlugin/FwkPlugin.mpinfo
+│   ├── ./plugin/PrivacyProtectionLock
+│   │   ├── ./plugin/PrivacyProtectionLock/PrivacyProtectionLock.apk
+│   │   └── ./plugin/PrivacyProtectionLock/PrivacyProtectionLock.mpinfo
+│   └── ./plugin/Signatures
+│       └── ./plugin/Signatures/mplugin_guard.xml
+├── ./priv-app
+│   ├── ./priv-app/AndroidForWork
+│   │   └── ./priv-app/AndroidForWork/AndroidForWork.apk
+│   ├── ./priv-app/BackupRestoreConfirmation
+│   │   └── ./priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+│   ├── ./priv-app/CalendarProvider
+│   │   └── ./priv-app/CalendarProvider/CalendarProvider.apk
+│   ├── ./priv-app/CDS_INFO
+│   │   └── ./priv-app/CDS_INFO/CDS_INFO.apk
+│   ├── ./priv-app/Contacts
+│   │   └── ./priv-app/Contacts/Contacts.apk
+│   ├── ./priv-app/ContactsProvider
+│   │   └── ./priv-app/ContactsProvider/ContactsProvider.apk
+│   ├── ./priv-app/DefaultContainerService
+│   │   ├── ./priv-app/DefaultContainerService/DefaultContainerService.apk
+│   │   └── ./priv-app/DefaultContainerService/lib
+│   │       └── ./priv-app/DefaultContainerService/lib/arm
+│   │           └── ./priv-app/DefaultContainerService/lib/arm/libdefcontainer_jni.so
+│   ├── ./priv-app/Dialer
+│   │   └── ./priv-app/Dialer/Dialer.apk
+│   ├── ./priv-app/DownloadProvider
+│   │   └── ./priv-app/DownloadProvider/DownloadProvider.apk
+│   ├── ./priv-app/ExternalStorageProvider
+│   │   └── ./priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+│   ├── ./priv-app/FMRadio
+│   │   ├── ./priv-app/FMRadio/FMRadio.apk
+│   │   └── ./priv-app/FMRadio/lib
+│   │       └── ./priv-app/FMRadio/lib/arm
+│   │           └── ./priv-app/FMRadio/lib/arm/libfmjni.so
+│   ├── ./priv-app/FusedLocation
+│   │   └── ./priv-app/FusedLocation/FusedLocation.apk
+│   ├── ./priv-app/GmsCore
+│   │   ├── ./priv-app/GmsCore/GmsCore.apk
+│   │   └── ./priv-app/GmsCore/lib
+│   │       └── ./priv-app/GmsCore/lib/arm
+│   │           ├── ./priv-app/GmsCore/lib/arm/libAppDataSearch.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libconscrypt_gmscore_jni.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libdirect-audio.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libgcastv2_base.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libgcastv2_support.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libgmscore.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libgms-ocrclient.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libjgcastservice.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libleveldbjni.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libNearbyApp.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libsslwrapper_jni.so
+│   │           ├── ./priv-app/GmsCore/lib/arm/libwearable-selector.so
+│   │           └── ./priv-app/GmsCore/lib/arm/libWhisper.so
+│   ├── ./priv-app/GoogleBackupTransport
+│   │   └── ./priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
+│   ├── ./priv-app/GoogleFeedback
+│   │   └── ./priv-app/GoogleFeedback/GoogleFeedback.apk
+│   ├── ./priv-app/GoogleLoginService
+│   │   └── ./priv-app/GoogleLoginService/GoogleLoginService.apk
+│   ├── ./priv-app/GoogleOneTimeInitializer
+│   │   └── ./priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+│   ├── ./priv-app/GooglePartnerSetup
+│   │   └── ./priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+│   ├── ./priv-app/GoogleServicesFramework
+│   │   └── ./priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+│   ├── ./priv-app/InputDevices
+│   │   └── ./priv-app/InputDevices/InputDevices.apk
+│   ├── ./priv-app/Launcher3
+│   │   └── ./priv-app/Launcher3/Launcher3.apk
+│   ├── ./priv-app/ManagedProvisioning
+│   │   └── ./priv-app/ManagedProvisioning/ManagedProvisioning.apk
+│   ├── ./priv-app/MediaProvider
+│   │   └── ./priv-app/MediaProvider/MediaProvider.apk
+│   ├── ./priv-app/Mms
+│   │   └── ./priv-app/Mms/Mms.apk
+│   ├── ./priv-app/MmsService
+│   │   └── ./priv-app/MmsService/MmsService.apk
+│   ├── ./priv-app/Phonesky
+│   │   └── ./priv-app/Phonesky/Phonesky.apk
+│   ├── ./priv-app/ProxyHandler
+│   │   └── ./priv-app/ProxyHandler/ProxyHandler.apk
+│   ├── ./priv-app/Settings
+│   │   └── ./priv-app/Settings/Settings.apk
+│   ├── ./priv-app/SettingsProvider
+│   │   └── ./priv-app/SettingsProvider/SettingsProvider.apk
+│   ├── ./priv-app/SetupWizard
+│   │   └── ./priv-app/SetupWizard/SetupWizard.apk
+│   ├── ./priv-app/SharedStorageBackup
+│   │   └── ./priv-app/SharedStorageBackup/SharedStorageBackup.apk
+│   ├── ./priv-app/Shell
+│   │   └── ./priv-app/Shell/Shell.apk
+│   ├── ./priv-app/Stk1
+│   │   └── ./priv-app/Stk1/Stk1.apk
+│   ├── ./priv-app/SystemUI
+│   │   └── ./priv-app/SystemUI/SystemUI.apk
+│   ├── ./priv-app/TagGoogle
+│   │   └── ./priv-app/TagGoogle/TagGoogle.apk
+│   ├── ./priv-app/Telecom
+│   │   └── ./priv-app/Telecom/Telecom.apk
+│   ├── ./priv-app/TelephonyProvider
+│   │   └── ./priv-app/TelephonyProvider/TelephonyProvider.apk
+│   ├── ./priv-app/TeleService
+│   │   └── ./priv-app/TeleService/TeleService.apk
+│   ├── ./priv-app/Velvet
+│   │   ├── ./priv-app/Velvet/lib
+│   │   │   └── ./priv-app/Velvet/lib/arm
+│   │   │       ├── ./priv-app/Velvet/lib/arm/libcrashreporter.so
+│   │   │       ├── ./priv-app/Velvet/lib/arm/libcronet.so
+│   │   │       ├── ./priv-app/Velvet/lib/arm/libgoogle_speech_jni.so
+│   │   │       ├── ./priv-app/Velvet/lib/arm/libgoogle_speech_micro_jni.so
+│   │   │       └── ./priv-app/Velvet/lib/arm/liboffline_actions_jni.so
+│   │   └── ./priv-app/Velvet/Velvet.apk
+│   ├── ./priv-app/VpnDialogs
+│   │   └── ./priv-app/VpnDialogs/VpnDialogs.apk
+│   └── ./priv-app/WallpaperCropper
+│       └── ./priv-app/WallpaperCropper/WallpaperCropper.apk
+├── ./recovery-from-boot.p
+├── ./res
+│   ├── ./res/images
+│   │   ├── ./res/images/lcd_test_00.png
+│   │   ├── ./res/images/lcd_test_01.png
+│   │   └── ./res/images/lcd_test_02.png
+│   └── ./res/sound
+│       ├── ./res/sound/ringtone.wav
+│       └── ./res/sound/testpattern1.wav
+├── ./[SYS]
+│   └── ./[SYS]/Journal
+├── ./tts
+│   └── ./tts/lang_pico
+│       ├── ./tts/lang_pico/de-DE_gl0_sg.bin
+│       ├── ./tts/lang_pico/de-DE_ta.bin
+│       ├── ./tts/lang_pico/en-GB_kh0_sg.bin
+│       ├── ./tts/lang_pico/en-GB_ta.bin
+│       ├── ./tts/lang_pico/en-US_lh0_sg.bin
+│       ├── ./tts/lang_pico/en-US_ta.bin
+│       ├── ./tts/lang_pico/es-ES_ta.bin
+│       ├── ./tts/lang_pico/es-ES_zl0_sg.bin
+│       ├── ./tts/lang_pico/fr-FR_nk0_sg.bin
+│       ├── ./tts/lang_pico/fr-FR_ta.bin
+│       ├── ./tts/lang_pico/it-IT_cm0_sg.bin
+│       └── ./tts/lang_pico/it-IT_ta.bin
+├── ./usr
+│   ├── ./usr/icu
+│   │   └── ./usr/icu/icudt53l.dat
+│   ├── ./usr/idc
+│   │   ├── ./usr/idc/qwerty2.idc
+│   │   └── ./usr/idc/qwerty.idc
+│   ├── ./usr/keychars
+│   │   ├── ./usr/keychars/Generic.kcm
+│   │   ├── ./usr/keychars/qwerty2.kcm
+│   │   ├── ./usr/keychars/qwerty.kcm
+│   │   └── ./usr/keychars/Virtual.kcm
+│   ├── ./usr/keylayout
+│   │   ├── ./usr/keylayout/ACCDET.kl
+│   │   ├── ./usr/keylayout/AVRCP.kl
+│   │   ├── ./usr/keylayout/Generic.kl
+│   │   ├── ./usr/keylayout/mtk-kpd.kl
+│   │   ├── ./usr/keylayout/qwerty.kl
+│   │   ├── ./usr/keylayout/Vendor_0079_Product_0011.kl
+│   │   ├── ./usr/keylayout/Vendor_045e_Product_028e.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_b501.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c216.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c219.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c21d.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c21f.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c294.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c299.kl
+│   │   ├── ./usr/keylayout/Vendor_046d_Product_c532.kl
+│   │   ├── ./usr/keylayout/Vendor_054c_Product_0268.kl
+│   │   ├── ./usr/keylayout/Vendor_0583_Product_2060.kl
+│   │   ├── ./usr/keylayout/Vendor_05ac_Product_0239.kl
+│   │   ├── ./usr/keylayout/Vendor_0b05_Product_4500.kl
+│   │   ├── ./usr/keylayout/Vendor_1038_Product_1412.kl
+│   │   ├── ./usr/keylayout/Vendor_12bd_Product_d015.kl
+│   │   ├── ./usr/keylayout/Vendor_1532_Product_0900.kl
+│   │   ├── ./usr/keylayout/Vendor_1689_Product_fd00.kl
+│   │   ├── ./usr/keylayout/Vendor_1689_Product_fd01.kl
+│   │   ├── ./usr/keylayout/Vendor_1689_Product_fe00.kl
+│   │   ├── ./usr/keylayout/Vendor_18d1_Product_2c40.kl
+│   │   ├── ./usr/keylayout/Vendor_1949_Product_0401.kl
+│   │   ├── ./usr/keylayout/Vendor_1bad_Product_f016.kl
+│   │   ├── ./usr/keylayout/Vendor_1bad_Product_f023.kl
+│   │   ├── ./usr/keylayout/Vendor_1bad_Product_f027.kl
+│   │   ├── ./usr/keylayout/Vendor_1bad_Product_f036.kl
+│   │   ├── ./usr/keylayout/Vendor_1d79_Product_0009.kl
+│   │   ├── ./usr/keylayout/Vendor_22b8_Product_093d.kl
+│   │   ├── ./usr/keylayout/Vendor_2378_Product_1008.kl
+│   │   └── ./usr/keylayout/Vendor_2378_Product_100a.kl
+│   ├── ./usr/share
+│   │   ├── ./usr/share/bmd
+│   │   │   ├── ./usr/share/bmd/RFFspeed_501.bmd
+│   │   │   └── ./usr/share/bmd/RFFstd_501.bmd
+│   │   └── ./usr/share/zoneinfo
+│   │       └── ./usr/share/zoneinfo/tzdata
+│   └── ./usr/srec
+│       └── ./usr/srec/en-US
+│           ├── ./usr/srec/en-US/action.pumpkin
+│           ├── ./usr/srec/en-US/c_fst
+│           ├── ./usr/srec/en-US/class_normalizer.mfar
+│           ├── ./usr/srec/en-US/CLG.prewalk.fst
+│           ├── ./usr/srec/en-US/commands.abnf
+│           ├── ./usr/srec/en-US/compile_grammar.config
+│           ├── ./usr/srec/en-US/config.pumpkin
+│           ├── ./usr/srec/en-US/contacts.abnf
+│           ├── ./usr/srec/en-US/CONTACTS.fst
+│           ├── ./usr/srec/en-US/CONTACTS.syms
+│           ├── ./usr/srec/en-US/dict
+│           ├── ./usr/srec/en-US/dictation.config
+│           ├── ./usr/srec/en-US/dist_belief
+│           ├── ./usr/srec/en-US/dnn
+│           ├── ./usr/srec/en-US/endpointer_dictation.config
+│           ├── ./usr/srec/en-US/endpointer_model.mmap
+│           ├── ./usr/srec/en-US/endpointer_voicesearch.config
+│           ├── ./usr/srec/en-US/g2p.data
+│           ├── ./usr/srec/en-US/g2p_fst
+│           ├── ./usr/srec/en-US/grammar.config
+│           ├── ./usr/srec/en-US/graphemes.syms
+│           ├── ./usr/srec/en-US/hmmlist
+│           ├── ./usr/srec/en-US/hmm_symbols
+│           ├── ./usr/srec/en-US/input_mean_std_dev
+│           ├── ./usr/srec/en-US/lexicon.U.fst
+│           ├── ./usr/srec/en-US/lstm_model.uint8.data
+│           ├── ./usr/srec/en-US/magic_mic.config
+│           ├── ./usr/srec/en-US/metadata
+│           ├── ./usr/srec/en-US/normalizer.mfar
+│           ├── ./usr/srec/en-US/norm_fst
+│           ├── ./usr/srec/en-US/offensive_word_normalizer.mfar
+│           ├── ./usr/srec/en-US/phonelist
+│           ├── ./usr/srec/en-US/phonelist.syms
+│           ├── ./usr/srec/en-US/phonemes.syms
+│           ├── ./usr/srec/en-US/rescoring.fst.louds
+│           ├── ./usr/srec/en-US/semantics.pumpkin
+│           ├── ./usr/srec/en-US/voice_actions_compiler.config
+│           ├── ./usr/srec/en-US/voice_actions.config
+│           └── ./usr/srec/en-US/wordlist.syms
+├── ./vendor
+│   ├── ./vendor/app
+│   │   ├── ./vendor/app/Ds
+│   │   │   └── ./vendor/app/Ds/Ds.apk
+│   │   └── ./vendor/app/DsUI
+│   │       └── ./vendor/app/DsUI/DsUI.apk
+│   ├── ./vendor/ektf3248
+│   │   ├── ./vendor/ektf3248/ckt
+│   │   │   └── ./vendor/ektf3248/ckt/xl_5557_14f5.ekt
+│   │   └── ./vendor/ektf3248/truly
+│   │       └── ./vendor/ektf3248/truly/xl_5557_14f5.ekt
+│   ├── ./vendor/etc
+│   │   ├── ./vendor/etc/audio_effects.conf
+│   │   └── ./vendor/etc/dolby
+│   │       └── ./vendor/etc/dolby/ds1-default.xml
+│   ├── ./vendor/lib
+│   │   ├── ./vendor/lib/drm
+│   │   │   └── ./vendor/lib/drm/libdrmwvmplugin.so
+│   │   ├── ./vendor/lib/hw
+│   │   │   ├── ./vendor/lib/hw/audio.a2dp.blueangel.so
+│   │   │   └── ./vendor/lib/hw/bluetooth.blueangel.so
+│   │   ├── ./vendor/lib/libstagefright_soft_ddpdec.so
+│   │   ├── ./vendor/lib/libwvdrm_L3.so
+│   │   ├── ./vendor/lib/libwvm.so
+│   │   ├── ./vendor/lib/libWVStreamControlAPI_L3.so
+│   │   ├── ./vendor/lib/mediadrm
+│   │   │   ├── ./vendor/lib/mediadrm/libdrmclearkeyplugin.so
+│   │   │   ├── ./vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+│   │   │   └── ./vendor/lib/mediadrm/libwvdrmengine.so
+│   │   └── ./vendor/lib/soundfx
+│   │       └── ./vendor/lib/soundfx/libswdap.so
+│   ├── ./vendor/media
+│   │   ├── ./vendor/media/LMspeed_508.emd
+│   │   └── ./vendor/media/PFFprec_600.emd
+│   └── ./vendor/pittpatt
+│       └── ./vendor/pittpatt/models
+│           ├── ./vendor/pittpatt/models/detection
+│           │   ├── ./vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8
+│           │   │   ├── ./vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/landmark_group_meta_data.bin
+│           │   │   ├── ./vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+│           │   │   ├── ./vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin
+│           │   │   └── ./vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin
+│           │   └── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1
+│           │       ├── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin
+│           │       ├── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin
+│           │       ├── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin
+│           │       ├── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-r.8.1.bin
+│           │       └── ./vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-y-r.8.1.bin
+│           └── ./vendor/pittpatt/models/recognition
+│               └── ./vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin
+└── ./xbin
+    ├── ./xbin/[
+    ├── ./xbin/[[
+    ├── ./xbin/adjtimex
+    ├── ./xbin/arp
+    ├── ./xbin/ash
+    ├── ./xbin/awk
+    ├── ./xbin/base64
+    ├── ./xbin/basename
+    ├── ./xbin/bbconfig
+    ├── ./xbin/BGW
+    ├── ./xbin/blkid
+    ├── ./xbin/blockdev
+    ├── ./xbin/brctl
+    ├── ./xbin/bunzip2
+    ├── ./xbin/busybox
+    ├── ./xbin/bzcat
+    ├── ./xbin/bzip2
+    ├── ./xbin/cal
+    ├── ./xbin/cat
+    ├── ./xbin/catv
+    ├── ./xbin/chattr
+    ├── ./xbin/chcon
+    ├── ./xbin/chgrp
+    ├── ./xbin/chmod
+    ├── ./xbin/chown
+    ├── ./xbin/chroot
+    ├── ./xbin/chvt
+    ├── ./xbin/clear
+    ├── ./xbin/cmp
+    ├── ./xbin/comm
+    ├── ./xbin/cp
+    ├── ./xbin/cpio
+    ├── ./xbin/crond
+    ├── ./xbin/crontab
+    ├── ./xbin/cut
+    ├── ./xbin/date
+    ├── ./xbin/dc
+    ├── ./xbin/dd
+    ├── ./xbin/deallocvt
+    ├── ./xbin/depmod
+    ├── ./xbin/devmem
+    ├── ./xbin/dexdump
+    ├── ./xbin/df
+    ├── ./xbin/diff
+    ├── ./xbin/dirname
+    ├── ./xbin/dmesg
+    ├── ./xbin/dnsd
+    ├── ./xbin/dos2unix
+    ├── ./xbin/du
+    ├── ./xbin/echo
+    ├── ./xbin/ed
+    ├── ./xbin/egrep
+    ├── ./xbin/env
+    ├── ./xbin/expand
+    ├── ./xbin/expr
+    ├── ./xbin/false
+    ├── ./xbin/fbsplash
+    ├── ./xbin/fdisk
+    ├── ./xbin/fgconsole
+    ├── ./xbin/fgrep
+    ├── ./xbin/find
+    ├── ./xbin/findfs
+    ├── ./xbin/flashcp
+    ├── ./xbin/flash_lock
+    ├── ./xbin/flash_unlock
+    ├── ./xbin/flock
+    ├── ./xbin/fold
+    ├── ./xbin/free
+    ├── ./xbin/freeramdisk
+    ├── ./xbin/fstrim
+    ├── ./xbin/fsync
+    ├── ./xbin/ftpget
+    ├── ./xbin/ftpput
+    ├── ./xbin/fuser
+    ├── ./xbin/getenforce
+    ├── ./xbin/getopt
+    ├── ./xbin/getsebool
+    ├── ./xbin/grep
+    ├── ./xbin/groups
+    ├── ./xbin/gunzip
+    ├── ./xbin/gzip
+    ├── ./xbin/halt
+    ├── ./xbin/head
+    ├── ./xbin/hexdump
+    ├── ./xbin/hwclock
+    ├── ./xbin/id
+    ├── ./xbin/ifconfig
+    ├── ./xbin/inetd
+    ├── ./xbin/insmod
+    ├── ./xbin/install
+    ├── ./xbin/ionice
+    ├── ./xbin/iostat
+    ├── ./xbin/ip
+    ├── ./xbin/kill
+    ├── ./xbin/killall
+    ├── ./xbin/killall5
+    ├── ./xbin/less
+    ├── ./xbin/ln
+    ├── ./xbin/losetup
+    ├── ./xbin/ls
+    ├── ./xbin/lsattr
+    ├── ./xbin/lsmod
+    ├── ./xbin/lspci
+    ├── ./xbin/lsusb
+    ├── ./xbin/lzcat
+    ├── ./xbin/lzma
+    ├── ./xbin/lzop
+    ├── ./xbin/lzopcat
+    ├── ./xbin/man
+    ├── ./xbin/matchpathcon
+    ├── ./xbin/md5sum
+    ├── ./xbin/mesg
+    ├── ./xbin/mkdir
+    ├── ./xbin/mke2fs
+    ├── ./xbin/mkfifo
+    ├── ./xbin/mkfs.ext2
+    ├── ./xbin/mkfs.vfat
+    ├── ./xbin/mknod
+    ├── ./xbin/mkswap
+    ├── ./xbin/mktemp
+    ├── ./xbin/mnld
+    ├── ./xbin/modinfo
+    ├── ./xbin/modprobe
+    ├── ./xbin/more
+    ├── ./xbin/mount
+    ├── ./xbin/mountpoint
+    ├── ./xbin/mpstat
+    ├── ./xbin/mv
+    ├── ./xbin/nanddump
+    ├── ./xbin/nandwrite
+    ├── ./xbin/nbd-client
+    ├── ./xbin/netstat
+    ├── ./xbin/nice
+    ├── ./xbin/nmeter
+    ├── ./xbin/nohup
+    ├── ./xbin/nslookup
+    ├── ./xbin/ntpd
+    ├── ./xbin/od
+    ├── ./xbin/openvt
+    ├── ./xbin/patch
+    ├── ./xbin/pgrep
+    ├── ./xbin/pidof
+    ├── ./xbin/ping
+    ├── ./xbin/pipe_progress
+    ├── ./xbin/pkill
+    ├── ./xbin/pmap
+    ├── ./xbin/poweroff
+    ├── ./xbin/printenv
+    ├── ./xbin/printf
+    ├── ./xbin/ps
+    ├── ./xbin/pstree
+    ├── ./xbin/pwd
+    ├── ./xbin/pwdx
+    ├── ./xbin/rdate
+    ├── ./xbin/rdev
+    ├── ./xbin/readlink
+    ├── ./xbin/realpath
+    ├── ./xbin/renice
+    ├── ./xbin/reset
+    ├── ./xbin/resize
+    ├── ./xbin/restorecon
+    ├── ./xbin/rev
+    ├── ./xbin/rm
+    ├── ./xbin/rmdir
+    ├── ./xbin/rmmod
+    ├── ./xbin/route
+    ├── ./xbin/runcon
+    ├── ./xbin/run-parts
+    ├── ./xbin/rx
+    ├── ./xbin/sed
+    ├── ./xbin/selinuxenabled
+    ├── ./xbin/seq
+    ├── ./xbin/sestatus
+    ├── ./xbin/setconsole
+    ├── ./xbin/setenforce
+    ├── ./xbin/setfiles
+    ├── ./xbin/setkeycodes
+    ├── ./xbin/setsebool
+    ├── ./xbin/setserial
+    ├── ./xbin/setsid
+    ├── ./xbin/sh
+    ├── ./xbin/sha1sum
+    ├── ./xbin/sha256sum
+    ├── ./xbin/sha3sum
+    ├── ./xbin/sha512sum
+    ├── ./xbin/showmap
+    ├── ./xbin/sleep
+    ├── ./xbin/smemcap
+    ├── ./xbin/sort
+    ├── ./xbin/split
+    ├── ./xbin/stat
+    ├── ./xbin/strings
+    ├── ./xbin/stty
+    ├── ./xbin/sum
+    ├── ./xbin/swapoff
+    ├── ./xbin/swapon
+    ├── ./xbin/sync
+    ├── ./xbin/sysctl
+    ├── ./xbin/tac
+    ├── ./xbin/tail
+    ├── ./xbin/tar
+    ├── ./xbin/taskset
+    ├── ./xbin/tcpdump
+    ├── ./xbin/tee
+    ├── ./xbin/telnet
+    ├── ./xbin/telnetd
+    ├── ./xbin/test
+    ├── ./xbin/tftp
+    ├── ./xbin/tftpd
+    ├── ./xbin/time
+    ├── ./xbin/timeout
+    ├── ./xbin/top
+    ├── ./xbin/touch
+    ├── ./xbin/tr
+    ├── ./xbin/traceroute
+    ├── ./xbin/true
+    ├── ./xbin/ttysize
+    ├── ./xbin/tune2fs
+    ├── ./xbin/umount
+    ├── ./xbin/uname
+    ├── ./xbin/uncompress
+    ├── ./xbin/unexpand
+    ├── ./xbin/uniq
+    ├── ./xbin/unix2dos
+    ├── ./xbin/unlzma
+    ├── ./xbin/unlzop
+    ├── ./xbin/unxz
+    ├── ./xbin/unzip
+    ├── ./xbin/uptime
+    ├── ./xbin/usleep
+    ├── ./xbin/uudecode
+    ├── ./xbin/uuencode
+    ├── ./xbin/vi
+    ├── ./xbin/watch
+    ├── ./xbin/wc
+    ├── ./xbin/wget
+    ├── ./xbin/which
+    ├── ./xbin/whoami
+    ├── ./xbin/xargs
+    ├── ./xbin/xz
+    ├── ./xbin/xzcat
+    ├── ./xbin/yes
+    └── ./xbin/zcat
+
+249 directories, 1856 files
